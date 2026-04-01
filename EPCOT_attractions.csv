@@ -1,496 +1,496 @@
-name,waitTime,currentStatus,weekday,month,dayNumber,hourOfDay,minute,isRide
-Disney and Pixar Short Film Festival,,CLOSED,2,4,1,9,0,True
-The Seas with Nemo & Friends,5,OPERATING,2,4,1,9,0,True
-Frozen Ever After,,DOWN,2,4,1,9,0,True
-Awesome Planet,,CLOSED,2,4,1,9,0,True
-American Heritage Gallery,,OPERATING,2,4,1,9,0,False
-Remy's Ratatouille Adventure,70,OPERATING,2,4,1,9,0,True
-Advanced Training Lab,,OPERATING,2,4,1,9,0,False
-Stave Church Gallery,,OPERATING,2,4,1,9,0,False
-Turtle Talk With Crush,,CLOSED,2,4,1,9,0,True
-Bruce's Shark World,,OPERATING,2,4,1,9,0,False
-Impressions de France,,CLOSED,2,4,1,9,0,True
-Journey Into Imagination With Figment,,CLOSED,2,4,1,9,0,True
-Reflections of China,,CLOSED,2,4,1,9,0,True
-The American Adventure,,OPERATING,2,4,1,9,0,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,9,0,False
-Spaceship Earth,5,OPERATING,2,4,1,9,0,True
-Test Track,80,OPERATING,2,4,1,9,0,True
-Kidcot Fun Stops,,OPERATING,2,4,1,9,0,False
-Living with the Land,5,OPERATING,2,4,1,9,0,True
-SeaBase Aquarium,,OPERATING,2,4,1,9,0,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,9,0,False
-Gallery of Arts and History,,OPERATING,2,4,1,9,0,False
-House of the Whispering Willows,,OPERATING,2,4,1,9,0,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,9,0,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,9,0,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,9,0,True
-Palais du Cinéma,,OPERATING,2,4,1,9,0,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,9,0,False
-Canada Far and Wide in Circle-Vision 360,,CLOSED,2,4,1,9,0,True
-Soarin' Around the World,10,OPERATING,2,4,1,9,0,True
-Mission: SPACE,15,OPERATING,2,4,1,9,0,True
-Guardians of the Galaxy: Cosmic Rewind,120,OPERATING,2,4,1,9,0,True
-Gran Fiesta Tour Starring The Three Caballeros,,CLOSED,2,4,1,9,0,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,9,15,True
-The Seas with Nemo & Friends,5,OPERATING,2,4,1,9,15,True
-Frozen Ever After,,DOWN,2,4,1,9,15,True
-Awesome Planet,,OPERATING,2,4,1,9,15,True
-American Heritage Gallery,,OPERATING,2,4,1,9,15,False
-Remy's Ratatouille Adventure,80,OPERATING,2,4,1,9,15,True
-Advanced Training Lab,,OPERATING,2,4,1,9,15,False
-Stave Church Gallery,,OPERATING,2,4,1,9,15,False
-Turtle Talk With Crush,,CLOSED,2,4,1,9,15,True
-Bruce's Shark World,,OPERATING,2,4,1,9,15,False
-Impressions de France,,CLOSED,2,4,1,9,15,True
-Journey Into Imagination With Figment,5,OPERATING,2,4,1,9,15,True
-Reflections of China,15,OPERATING,2,4,1,9,15,True
-The American Adventure,,OPERATING,2,4,1,9,15,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,9,15,False
-Spaceship Earth,10,OPERATING,2,4,1,9,15,True
-Test Track,105,OPERATING,2,4,1,9,15,True
-Kidcot Fun Stops,,OPERATING,2,4,1,9,15,False
-Living with the Land,5,OPERATING,2,4,1,9,15,True
-SeaBase Aquarium,,OPERATING,2,4,1,9,15,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,9,15,False
-Gallery of Arts and History,,OPERATING,2,4,1,9,15,False
-House of the Whispering Willows,,OPERATING,2,4,1,9,15,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,9,15,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,9,15,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,9,15,True
-Palais du Cinéma,,OPERATING,2,4,1,9,15,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,9,15,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,9,15,True
-Soarin' Around the World,50,OPERATING,2,4,1,9,15,True
-Mission: SPACE,15,OPERATING,2,4,1,9,15,True
-Guardians of the Galaxy: Cosmic Rewind,120,OPERATING,2,4,1,9,15,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,9,15,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,9,30,True
-The Seas with Nemo & Friends,5,OPERATING,2,4,1,9,30,True
-Frozen Ever After,,DOWN,2,4,1,9,30,True
-Awesome Planet,,OPERATING,2,4,1,9,30,True
-American Heritage Gallery,,OPERATING,2,4,1,9,30,False
-Remy's Ratatouille Adventure,75,OPERATING,2,4,1,9,30,True
-Advanced Training Lab,,OPERATING,2,4,1,9,30,False
-Stave Church Gallery,,OPERATING,2,4,1,9,30,False
-Turtle Talk With Crush,,CLOSED,2,4,1,9,30,True
-Bruce's Shark World,,OPERATING,2,4,1,9,30,False
-Impressions de France,,CLOSED,2,4,1,9,30,True
-Journey Into Imagination With Figment,5,OPERATING,2,4,1,9,30,True
-Reflections of China,15,OPERATING,2,4,1,9,30,True
-The American Adventure,,OPERATING,2,4,1,9,30,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,9,30,False
-Spaceship Earth,15,OPERATING,2,4,1,9,30,True
-Test Track,115,OPERATING,2,4,1,9,30,True
-Kidcot Fun Stops,,OPERATING,2,4,1,9,30,False
-Living with the Land,5,OPERATING,2,4,1,9,30,True
-SeaBase Aquarium,,OPERATING,2,4,1,9,30,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,9,30,False
-Gallery of Arts and History,,OPERATING,2,4,1,9,30,False
-House of the Whispering Willows,,OPERATING,2,4,1,9,30,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,9,30,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,9,30,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,9,30,True
-Palais du Cinéma,,OPERATING,2,4,1,9,30,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,9,30,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,9,30,True
-Soarin' Around the World,50,OPERATING,2,4,1,9,30,True
-Mission: SPACE,15,OPERATING,2,4,1,9,30,True
-Guardians of the Galaxy: Cosmic Rewind,120,OPERATING,2,4,1,9,30,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,9,30,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,9,45,True
-The Seas with Nemo & Friends,10,OPERATING,2,4,1,9,45,True
-Frozen Ever After,45,OPERATING,2,4,1,9,45,True
-Awesome Planet,,OPERATING,2,4,1,9,45,True
-American Heritage Gallery,,OPERATING,2,4,1,9,45,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,9,45,True
-Advanced Training Lab,,OPERATING,2,4,1,9,45,False
-Stave Church Gallery,,OPERATING,2,4,1,9,45,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,9,45,True
-Bruce's Shark World,,OPERATING,2,4,1,9,45,False
-Impressions de France,,CLOSED,2,4,1,9,45,True
-Journey Into Imagination With Figment,5,OPERATING,2,4,1,9,45,True
-Reflections of China,15,OPERATING,2,4,1,9,45,True
-The American Adventure,,OPERATING,2,4,1,9,45,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,9,45,False
-Spaceship Earth,30,OPERATING,2,4,1,9,45,True
-Test Track,115,OPERATING,2,4,1,9,45,True
-Kidcot Fun Stops,,OPERATING,2,4,1,9,45,False
-Living with the Land,5,OPERATING,2,4,1,9,45,True
-SeaBase Aquarium,,OPERATING,2,4,1,9,45,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,9,45,False
-Gallery of Arts and History,,OPERATING,2,4,1,9,45,False
-House of the Whispering Willows,,OPERATING,2,4,1,9,45,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,9,45,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,9,45,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,9,45,True
-Palais du Cinéma,,OPERATING,2,4,1,9,45,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,9,45,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,9,45,True
-Soarin' Around the World,60,OPERATING,2,4,1,9,45,True
-Mission: SPACE,20,OPERATING,2,4,1,9,45,True
-Guardians of the Galaxy: Cosmic Rewind,120,OPERATING,2,4,1,9,45,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,9,45,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,10,0,True
-The Seas with Nemo & Friends,10,OPERATING,2,4,1,10,0,True
-Frozen Ever After,50,OPERATING,2,4,1,10,0,True
-Awesome Planet,,OPERATING,2,4,1,10,0,True
-American Heritage Gallery,,OPERATING,2,4,1,10,0,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,10,0,True
-Advanced Training Lab,,OPERATING,2,4,1,10,0,False
-Stave Church Gallery,,OPERATING,2,4,1,10,0,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,10,0,True
-Bruce's Shark World,,OPERATING,2,4,1,10,0,False
-Impressions de France,,CLOSED,2,4,1,10,0,True
-Journey Into Imagination With Figment,5,OPERATING,2,4,1,10,0,True
-Reflections of China,15,OPERATING,2,4,1,10,0,True
-The American Adventure,,OPERATING,2,4,1,10,0,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,10,0,False
-Spaceship Earth,30,OPERATING,2,4,1,10,0,True
-Test Track,125,OPERATING,2,4,1,10,0,True
-Kidcot Fun Stops,,OPERATING,2,4,1,10,0,False
-Living with the Land,5,OPERATING,2,4,1,10,0,True
-SeaBase Aquarium,,OPERATING,2,4,1,10,0,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,10,0,False
-Gallery of Arts and History,,OPERATING,2,4,1,10,0,False
-House of the Whispering Willows,,OPERATING,2,4,1,10,0,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,10,0,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,10,0,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,10,0,True
-Palais du Cinéma,,OPERATING,2,4,1,10,0,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,10,0,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,10,0,True
-Soarin' Around the World,60,OPERATING,2,4,1,10,0,True
-Mission: SPACE,20,OPERATING,2,4,1,10,0,True
-Guardians of the Galaxy: Cosmic Rewind,120,OPERATING,2,4,1,10,0,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,10,0,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,10,15,True
-The Seas with Nemo & Friends,20,OPERATING,2,4,1,10,15,True
-Frozen Ever After,55,OPERATING,2,4,1,10,15,True
-Awesome Planet,,OPERATING,2,4,1,10,15,True
-American Heritage Gallery,,OPERATING,2,4,1,10,15,False
-Remy's Ratatouille Adventure,80,OPERATING,2,4,1,10,15,True
-Advanced Training Lab,,OPERATING,2,4,1,10,15,False
-Stave Church Gallery,,OPERATING,2,4,1,10,15,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,10,15,True
-Bruce's Shark World,,OPERATING,2,4,1,10,15,False
-Impressions de France,,CLOSED,2,4,1,10,15,True
-Journey Into Imagination With Figment,10,OPERATING,2,4,1,10,15,True
-Reflections of China,15,OPERATING,2,4,1,10,15,True
-The American Adventure,,OPERATING,2,4,1,10,15,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,10,15,False
-Spaceship Earth,25,OPERATING,2,4,1,10,15,True
-Test Track,125,OPERATING,2,4,1,10,15,True
-Kidcot Fun Stops,,OPERATING,2,4,1,10,15,False
-Living with the Land,10,OPERATING,2,4,1,10,15,True
-SeaBase Aquarium,,OPERATING,2,4,1,10,15,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,10,15,False
-Gallery of Arts and History,,OPERATING,2,4,1,10,15,False
-House of the Whispering Willows,,OPERATING,2,4,1,10,15,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,10,15,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,10,15,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,10,15,True
-Palais du Cinéma,,OPERATING,2,4,1,10,15,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,10,15,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,10,15,True
-Soarin' Around the World,50,OPERATING,2,4,1,10,15,True
-Mission: SPACE,20,OPERATING,2,4,1,10,15,True
-Guardians of the Galaxy: Cosmic Rewind,120,OPERATING,2,4,1,10,15,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,10,15,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,10,30,True
-The Seas with Nemo & Friends,30,OPERATING,2,4,1,10,30,True
-Frozen Ever After,65,OPERATING,2,4,1,10,30,True
-Awesome Planet,,OPERATING,2,4,1,10,30,True
-American Heritage Gallery,,OPERATING,2,4,1,10,30,False
-Remy's Ratatouille Adventure,80,OPERATING,2,4,1,10,30,True
-Advanced Training Lab,,OPERATING,2,4,1,10,30,False
-Stave Church Gallery,,OPERATING,2,4,1,10,30,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,10,30,True
-Bruce's Shark World,,OPERATING,2,4,1,10,30,False
-Impressions de France,,CLOSED,2,4,1,10,30,True
-Journey Into Imagination With Figment,20,OPERATING,2,4,1,10,30,True
-Reflections of China,15,OPERATING,2,4,1,10,30,True
-The American Adventure,,OPERATING,2,4,1,10,30,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,10,30,False
-Spaceship Earth,40,OPERATING,2,4,1,10,30,True
-Test Track,90,OPERATING,2,4,1,10,30,True
-Kidcot Fun Stops,,OPERATING,2,4,1,10,30,False
-Living with the Land,10,OPERATING,2,4,1,10,30,True
-SeaBase Aquarium,,OPERATING,2,4,1,10,30,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,10,30,False
-Gallery of Arts and History,,OPERATING,2,4,1,10,30,False
-House of the Whispering Willows,,OPERATING,2,4,1,10,30,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,10,30,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,10,30,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,10,30,True
-Palais du Cinéma,,OPERATING,2,4,1,10,30,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,10,30,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,10,30,True
-Soarin' Around the World,50,OPERATING,2,4,1,10,30,True
-Mission: SPACE,20,OPERATING,2,4,1,10,30,True
-Guardians of the Galaxy: Cosmic Rewind,95,OPERATING,2,4,1,10,30,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,10,30,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,10,45,True
-The Seas with Nemo & Friends,55,OPERATING,2,4,1,10,45,True
-Frozen Ever After,65,OPERATING,2,4,1,10,45,True
-Awesome Planet,,OPERATING,2,4,1,10,45,True
-American Heritage Gallery,,OPERATING,2,4,1,10,45,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,10,45,True
-Advanced Training Lab,,OPERATING,2,4,1,10,45,False
-Stave Church Gallery,,OPERATING,2,4,1,10,45,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,10,45,True
-Bruce's Shark World,,OPERATING,2,4,1,10,45,False
-Impressions de France,,CLOSED,2,4,1,10,45,True
-Journey Into Imagination With Figment,25,OPERATING,2,4,1,10,45,True
-Reflections of China,15,OPERATING,2,4,1,10,45,True
-The American Adventure,,OPERATING,2,4,1,10,45,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,10,45,False
-Spaceship Earth,35,OPERATING,2,4,1,10,45,True
-Test Track,90,OPERATING,2,4,1,10,45,True
-Kidcot Fun Stops,,OPERATING,2,4,1,10,45,False
-Living with the Land,20,OPERATING,2,4,1,10,45,True
-SeaBase Aquarium,,OPERATING,2,4,1,10,45,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,10,45,False
-Gallery of Arts and History,,OPERATING,2,4,1,10,45,False
-House of the Whispering Willows,,OPERATING,2,4,1,10,45,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,10,45,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,10,45,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,10,45,True
-Palais du Cinéma,,OPERATING,2,4,1,10,45,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,10,45,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,10,45,True
-Soarin' Around the World,65,OPERATING,2,4,1,10,45,True
-Mission: SPACE,20,OPERATING,2,4,1,10,45,True
-Guardians of the Galaxy: Cosmic Rewind,95,OPERATING,2,4,1,10,45,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,10,45,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,11,0,True
-The Seas with Nemo & Friends,40,OPERATING,2,4,1,11,0,True
-Frozen Ever After,65,OPERATING,2,4,1,11,0,True
-Awesome Planet,,OPERATING,2,4,1,11,0,True
-American Heritage Gallery,,OPERATING,2,4,1,11,0,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,11,0,True
-Advanced Training Lab,,OPERATING,2,4,1,11,0,False
-Stave Church Gallery,,OPERATING,2,4,1,11,0,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,11,0,True
-Bruce's Shark World,,OPERATING,2,4,1,11,0,False
-Impressions de France,,CLOSED,2,4,1,11,0,True
-Journey Into Imagination With Figment,25,OPERATING,2,4,1,11,0,True
-Reflections of China,15,OPERATING,2,4,1,11,0,True
-The American Adventure,,OPERATING,2,4,1,11,0,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,11,0,False
-Spaceship Earth,35,OPERATING,2,4,1,11,0,True
-Test Track,95,OPERATING,2,4,1,11,0,True
-Kidcot Fun Stops,,OPERATING,2,4,1,11,0,False
-Living with the Land,20,OPERATING,2,4,1,11,0,True
-SeaBase Aquarium,,OPERATING,2,4,1,11,0,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,11,0,False
-Gallery of Arts and History,,OPERATING,2,4,1,11,0,False
-House of the Whispering Willows,,OPERATING,2,4,1,11,0,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,11,0,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,11,0,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,11,0,True
-Palais du Cinéma,,OPERATING,2,4,1,11,0,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,11,0,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,11,0,True
-Soarin' Around the World,75,OPERATING,2,4,1,11,0,True
-Mission: SPACE,25,OPERATING,2,4,1,11,0,True
-Guardians of the Galaxy: Cosmic Rewind,95,OPERATING,2,4,1,11,0,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,11,0,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,11,15,True
-The Seas with Nemo & Friends,40,OPERATING,2,4,1,11,15,True
-Frozen Ever After,65,OPERATING,2,4,1,11,15,True
-Awesome Planet,,OPERATING,2,4,1,11,15,True
-American Heritage Gallery,,OPERATING,2,4,1,11,15,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,11,15,True
-Advanced Training Lab,,OPERATING,2,4,1,11,15,False
-Stave Church Gallery,,OPERATING,2,4,1,11,15,False
-Turtle Talk With Crush,15,OPERATING,2,4,1,11,15,True
-Bruce's Shark World,,OPERATING,2,4,1,11,15,False
-Impressions de France,,CLOSED,2,4,1,11,15,True
-Journey Into Imagination With Figment,25,OPERATING,2,4,1,11,15,True
-Reflections of China,15,OPERATING,2,4,1,11,15,True
-The American Adventure,,OPERATING,2,4,1,11,15,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,11,15,False
-Spaceship Earth,35,OPERATING,2,4,1,11,15,True
-Test Track,105,OPERATING,2,4,1,11,15,True
-Kidcot Fun Stops,,OPERATING,2,4,1,11,15,False
-Living with the Land,30,OPERATING,2,4,1,11,15,True
-SeaBase Aquarium,,OPERATING,2,4,1,11,15,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,11,15,False
-Gallery of Arts and History,,OPERATING,2,4,1,11,15,False
-House of the Whispering Willows,,OPERATING,2,4,1,11,15,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,11,15,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,11,15,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,11,15,True
-Palais du Cinéma,,OPERATING,2,4,1,11,15,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,11,15,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,11,15,True
-Soarin' Around the World,75,OPERATING,2,4,1,11,15,True
-Mission: SPACE,25,OPERATING,2,4,1,11,15,True
-Guardians of the Galaxy: Cosmic Rewind,95,OPERATING,2,4,1,11,15,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,11,15,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,11,30,True
-The Seas with Nemo & Friends,40,OPERATING,2,4,1,11,30,True
-Frozen Ever After,65,OPERATING,2,4,1,11,30,True
-Awesome Planet,,OPERATING,2,4,1,11,30,True
-American Heritage Gallery,,OPERATING,2,4,1,11,30,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,11,30,True
-Advanced Training Lab,,OPERATING,2,4,1,11,30,False
-Stave Church Gallery,,OPERATING,2,4,1,11,30,False
-Turtle Talk With Crush,25,OPERATING,2,4,1,11,30,True
-Bruce's Shark World,,OPERATING,2,4,1,11,30,False
-Impressions de France,,CLOSED,2,4,1,11,30,True
-Journey Into Imagination With Figment,20,OPERATING,2,4,1,11,30,True
-Reflections of China,15,OPERATING,2,4,1,11,30,True
-The American Adventure,,OPERATING,2,4,1,11,30,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,11,30,False
-Spaceship Earth,40,OPERATING,2,4,1,11,30,True
-Test Track,105,OPERATING,2,4,1,11,30,True
-Kidcot Fun Stops,,OPERATING,2,4,1,11,30,False
-Living with the Land,25,OPERATING,2,4,1,11,30,True
-SeaBase Aquarium,,OPERATING,2,4,1,11,30,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,11,30,False
-Gallery of Arts and History,,OPERATING,2,4,1,11,30,False
-House of the Whispering Willows,,OPERATING,2,4,1,11,30,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,11,30,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,11,30,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,11,30,True
-Palais du Cinéma,,OPERATING,2,4,1,11,30,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,11,30,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,11,30,True
-Soarin' Around the World,75,OPERATING,2,4,1,11,30,True
-Mission: SPACE,15,OPERATING,2,4,1,11,30,True
-Guardians of the Galaxy: Cosmic Rewind,95,OPERATING,2,4,1,11,30,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,11,30,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,11,45,True
-The Seas with Nemo & Friends,15,OPERATING,2,4,1,11,45,True
-Frozen Ever After,65,OPERATING,2,4,1,11,45,True
-Awesome Planet,,OPERATING,2,4,1,11,45,True
-American Heritage Gallery,,OPERATING,2,4,1,11,45,False
-Remy's Ratatouille Adventure,50,OPERATING,2,4,1,11,45,True
-Advanced Training Lab,,OPERATING,2,4,1,11,45,False
-Stave Church Gallery,,OPERATING,2,4,1,11,45,False
-Turtle Talk With Crush,25,OPERATING,2,4,1,11,45,True
-Bruce's Shark World,,OPERATING,2,4,1,11,45,False
-Impressions de France,,CLOSED,2,4,1,11,45,True
-Journey Into Imagination With Figment,20,OPERATING,2,4,1,11,45,True
-Reflections of China,15,OPERATING,2,4,1,11,45,True
-The American Adventure,,OPERATING,2,4,1,11,45,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,11,45,False
-Spaceship Earth,40,OPERATING,2,4,1,11,45,True
-Test Track,110,OPERATING,2,4,1,11,45,True
-Kidcot Fun Stops,,OPERATING,2,4,1,11,45,False
-Living with the Land,15,OPERATING,2,4,1,11,45,True
-SeaBase Aquarium,,OPERATING,2,4,1,11,45,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,11,45,False
-Gallery of Arts and History,,OPERATING,2,4,1,11,45,False
-House of the Whispering Willows,,OPERATING,2,4,1,11,45,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,11,45,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,11,45,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,11,45,True
-Palais du Cinéma,,OPERATING,2,4,1,11,45,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,11,45,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,11,45,True
-Soarin' Around the World,75,OPERATING,2,4,1,11,45,True
-Mission: SPACE,15,OPERATING,2,4,1,11,45,True
-Guardians of the Galaxy: Cosmic Rewind,95,OPERATING,2,4,1,11,45,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,11,45,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,12,0,True
-The Seas with Nemo & Friends,20,OPERATING,2,4,1,12,0,True
-Frozen Ever After,75,OPERATING,2,4,1,12,0,True
-Awesome Planet,,OPERATING,2,4,1,12,0,True
-American Heritage Gallery,,OPERATING,2,4,1,12,0,False
-Remy's Ratatouille Adventure,70,OPERATING,2,4,1,12,0,True
-Advanced Training Lab,,OPERATING,2,4,1,12,0,False
-Stave Church Gallery,,OPERATING,2,4,1,12,0,False
-Turtle Talk With Crush,25,OPERATING,2,4,1,12,0,True
-Bruce's Shark World,,OPERATING,2,4,1,12,0,False
-Impressions de France,,CLOSED,2,4,1,12,0,True
-Journey Into Imagination With Figment,15,OPERATING,2,4,1,12,0,True
-Reflections of China,15,OPERATING,2,4,1,12,0,True
-The American Adventure,,OPERATING,2,4,1,12,0,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,12,0,False
-Spaceship Earth,40,OPERATING,2,4,1,12,0,True
-Test Track,105,OPERATING,2,4,1,12,0,True
-Kidcot Fun Stops,,OPERATING,2,4,1,12,0,False
-Living with the Land,20,OPERATING,2,4,1,12,0,True
-SeaBase Aquarium,,OPERATING,2,4,1,12,0,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,12,0,False
-Gallery of Arts and History,,OPERATING,2,4,1,12,0,False
-House of the Whispering Willows,,OPERATING,2,4,1,12,0,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,12,0,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,12,0,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,12,0,True
-Palais du Cinéma,,OPERATING,2,4,1,12,0,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,12,0,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,12,0,True
-Soarin' Around the World,65,OPERATING,2,4,1,12,0,True
-Mission: SPACE,25,OPERATING,2,4,1,12,0,True
-Guardians of the Galaxy: Cosmic Rewind,115,OPERATING,2,4,1,12,0,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,12,0,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,12,15,True
-The Seas with Nemo & Friends,20,OPERATING,2,4,1,12,15,True
-Frozen Ever After,75,OPERATING,2,4,1,12,15,True
-Awesome Planet,,OPERATING,2,4,1,12,15,True
-American Heritage Gallery,,OPERATING,2,4,1,12,15,False
-Remy's Ratatouille Adventure,70,OPERATING,2,4,1,12,15,True
-Advanced Training Lab,,OPERATING,2,4,1,12,15,False
-Stave Church Gallery,,OPERATING,2,4,1,12,15,False
-Turtle Talk With Crush,25,OPERATING,2,4,1,12,15,True
-Bruce's Shark World,,OPERATING,2,4,1,12,15,False
-Impressions de France,,CLOSED,2,4,1,12,15,True
-Journey Into Imagination With Figment,20,OPERATING,2,4,1,12,15,True
-Reflections of China,15,OPERATING,2,4,1,12,15,True
-The American Adventure,,OPERATING,2,4,1,12,15,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,12,15,False
-Spaceship Earth,30,OPERATING,2,4,1,12,15,True
-Test Track,105,OPERATING,2,4,1,12,15,True
-Kidcot Fun Stops,,OPERATING,2,4,1,12,15,False
-Living with the Land,20,OPERATING,2,4,1,12,15,True
-SeaBase Aquarium,,OPERATING,2,4,1,12,15,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,12,15,False
-Gallery of Arts and History,,OPERATING,2,4,1,12,15,False
-House of the Whispering Willows,,OPERATING,2,4,1,12,15,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,12,15,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,12,15,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,12,15,True
-Palais du Cinéma,,OPERATING,2,4,1,12,15,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,12,15,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,12,15,True
-Soarin' Around the World,65,OPERATING,2,4,1,12,15,True
-Mission: SPACE,35,OPERATING,2,4,1,12,15,True
-Guardians of the Galaxy: Cosmic Rewind,115,OPERATING,2,4,1,12,15,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,12,15,True
-Disney and Pixar Short Film Festival,,OPERATING,2,4,1,16,30,True
-The Seas with Nemo & Friends,35,OPERATING,2,4,1,16,30,True
-Frozen Ever After,70,OPERATING,2,4,1,16,30,True
-Awesome Planet,,OPERATING,2,4,1,16,30,True
-American Heritage Gallery,,OPERATING,2,4,1,16,30,False
-Remy's Ratatouille Adventure,65,OPERATING,2,4,1,16,30,True
-Advanced Training Lab,,OPERATING,2,4,1,16,30,False
-Stave Church Gallery,,OPERATING,2,4,1,16,30,False
-Turtle Talk With Crush,25,OPERATING,2,4,1,16,30,True
-Bruce's Shark World,,OPERATING,2,4,1,16,30,False
-Impressions de France,,CLOSED,2,4,1,16,30,True
-Journey Into Imagination With Figment,20,OPERATING,2,4,1,16,30,True
-Reflections of China,15,OPERATING,2,4,1,16,30,True
-The American Adventure,,OPERATING,2,4,1,16,30,False
-Mexico Folk Art Gallery,,OPERATING,2,4,1,16,30,False
-Spaceship Earth,35,OPERATING,2,4,1,16,30,True
-Test Track,105,OPERATING,2,4,1,16,30,True
-Kidcot Fun Stops,,OPERATING,2,4,1,16,30,False
-Living with the Land,10,OPERATING,2,4,1,16,30,True
-SeaBase Aquarium,,OPERATING,2,4,1,16,30,False
-"ImageWorks - The ""What If"" Labs",,OPERATING,2,4,1,16,30,False
-Gallery of Arts and History,,OPERATING,2,4,1,16,30,False
-House of the Whispering Willows,,OPERATING,2,4,1,16,30,False
-Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,2,4,1,16,30,False
-"Journey of Water, Inspired by Moana",,OPERATING,2,4,1,16,30,True
-Beauty and the Beast Sing-Along,,CLOSED,2,4,1,16,30,True
-Palais du Cinéma,,OPERATING,2,4,1,16,30,False
-Bijutsu-kan Gallery,,OPERATING,2,4,1,16,30,False
-Canada Far and Wide in Circle-Vision 360,15,OPERATING,2,4,1,16,30,True
-Soarin' Around the World,65,OPERATING,2,4,1,16,30,True
-Mission: SPACE,25,OPERATING,2,4,1,16,30,True
-Guardians of the Galaxy: Cosmic Rewind,115,OPERATING,2,4,1,16,30,True
-Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,2,4,1,16,30,True
+name                                                 , waitTime, currentStatus, weekday, month, dayNumber, hourOfDay, minute, isRide
+Disney and Pixar Short Film Festival                 ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+The Seas with Nemo & Friends                         ,        5, OPERATING    ,       2,     4,         1,         9,      0, True
+Frozen Ever After                                    ,         , DOWN         ,       2,     4,         1,         9,      0, True
+Awesome Planet                                       ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Remy's Ratatouille Adventure                         ,       70, OPERATING    ,       2,     4,         1,         9,      0, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Turtle Talk With Crush                               ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+Journey Into Imagination With Figment                ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+Reflections of China                                 ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Spaceship Earth                                      ,        5, OPERATING    ,       2,     4,         1,         9,      0, True
+Test Track                                           ,       80, OPERATING    ,       2,     4,         1,         9,      0, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Living with the Land                                 ,        5, OPERATING    ,       2,     4,         1,         9,      0, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,         9,      0, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,         9,      0, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,         9,      0, False
+Canada Far and Wide in Circle-Vision 360             ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+Soarin' Around the World                             ,       10, OPERATING    ,       2,     4,         1,         9,      0, True
+Mission: SPACE                                       ,       15, OPERATING    ,       2,     4,         1,         9,      0, True
+Guardians of the Galaxy: Cosmic Rewind               ,      120, OPERATING    ,       2,     4,         1,         9,      0, True
+Gran Fiesta Tour Starring The Three Caballeros       ,         , CLOSED       ,       2,     4,         1,         9,      0, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,         9,     15, True
+The Seas with Nemo & Friends                         ,        5, OPERATING    ,       2,     4,         1,         9,     15, True
+Frozen Ever After                                    ,         , DOWN         ,       2,     4,         1,         9,     15, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,         9,     15, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Remy's Ratatouille Adventure                         ,       80, OPERATING    ,       2,     4,         1,         9,     15, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Turtle Talk With Crush                               ,         , CLOSED       ,       2,     4,         1,         9,     15, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,         9,     15, True
+Journey Into Imagination With Figment                ,        5, OPERATING    ,       2,     4,         1,         9,     15, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,         9,     15, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Spaceship Earth                                      ,       10, OPERATING    ,       2,     4,         1,         9,     15, True
+Test Track                                           ,      105, OPERATING    ,       2,     4,         1,         9,     15, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Living with the Land                                 ,        5, OPERATING    ,       2,     4,         1,         9,     15, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,         9,     15, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,         9,     15, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,         9,     15, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,         9,     15, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,         9,     15, True
+Soarin' Around the World                             ,       50, OPERATING    ,       2,     4,         1,         9,     15, True
+Mission: SPACE                                       ,       15, OPERATING    ,       2,     4,         1,         9,     15, True
+Guardians of the Galaxy: Cosmic Rewind               ,      120, OPERATING    ,       2,     4,         1,         9,     15, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,         9,     15, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,         9,     30, True
+The Seas with Nemo & Friends                         ,        5, OPERATING    ,       2,     4,         1,         9,     30, True
+Frozen Ever After                                    ,         , DOWN         ,       2,     4,         1,         9,     30, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,         9,     30, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Remy's Ratatouille Adventure                         ,       75, OPERATING    ,       2,     4,         1,         9,     30, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Turtle Talk With Crush                               ,         , CLOSED       ,       2,     4,         1,         9,     30, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,         9,     30, True
+Journey Into Imagination With Figment                ,        5, OPERATING    ,       2,     4,         1,         9,     30, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,         9,     30, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Spaceship Earth                                      ,       15, OPERATING    ,       2,     4,         1,         9,     30, True
+Test Track                                           ,      115, OPERATING    ,       2,     4,         1,         9,     30, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Living with the Land                                 ,        5, OPERATING    ,       2,     4,         1,         9,     30, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,         9,     30, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,         9,     30, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,         9,     30, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,         9,     30, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,         9,     30, True
+Soarin' Around the World                             ,       50, OPERATING    ,       2,     4,         1,         9,     30, True
+Mission: SPACE                                       ,       15, OPERATING    ,       2,     4,         1,         9,     30, True
+Guardians of the Galaxy: Cosmic Rewind               ,      120, OPERATING    ,       2,     4,         1,         9,     30, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,         9,     30, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,         9,     45, True
+The Seas with Nemo & Friends                         ,       10, OPERATING    ,       2,     4,         1,         9,     45, True
+Frozen Ever After                                    ,       45, OPERATING    ,       2,     4,         1,         9,     45, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,         9,     45, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,         9,     45, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,         9,     45, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,         9,     45, True
+Journey Into Imagination With Figment                ,        5, OPERATING    ,       2,     4,         1,         9,     45, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,         9,     45, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Spaceship Earth                                      ,       30, OPERATING    ,       2,     4,         1,         9,     45, True
+Test Track                                           ,      115, OPERATING    ,       2,     4,         1,         9,     45, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Living with the Land                                 ,        5, OPERATING    ,       2,     4,         1,         9,     45, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,         9,     45, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,         9,     45, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,         9,     45, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,         9,     45, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,         9,     45, True
+Soarin' Around the World                             ,       60, OPERATING    ,       2,     4,         1,         9,     45, True
+Mission: SPACE                                       ,       20, OPERATING    ,       2,     4,         1,         9,     45, True
+Guardians of the Galaxy: Cosmic Rewind               ,      120, OPERATING    ,       2,     4,         1,         9,     45, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,         9,     45, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        10,      0, True
+The Seas with Nemo & Friends                         ,       10, OPERATING    ,       2,     4,         1,        10,      0, True
+Frozen Ever After                                    ,       50, OPERATING    ,       2,     4,         1,        10,      0, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        10,      0, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,        10,      0, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,        10,      0, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        10,      0, True
+Journey Into Imagination With Figment                ,        5, OPERATING    ,       2,     4,         1,        10,      0, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        10,      0, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Spaceship Earth                                      ,       30, OPERATING    ,       2,     4,         1,        10,      0, True
+Test Track                                           ,      125, OPERATING    ,       2,     4,         1,        10,      0, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Living with the Land                                 ,        5, OPERATING    ,       2,     4,         1,        10,      0, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        10,      0, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        10,      0, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        10,      0, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        10,      0, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        10,      0, True
+Soarin' Around the World                             ,       60, OPERATING    ,       2,     4,         1,        10,      0, True
+Mission: SPACE                                       ,       20, OPERATING    ,       2,     4,         1,        10,      0, True
+Guardians of the Galaxy: Cosmic Rewind               ,      120, OPERATING    ,       2,     4,         1,        10,      0, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        10,      0, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        10,     15, True
+The Seas with Nemo & Friends                         ,       20, OPERATING    ,       2,     4,         1,        10,     15, True
+Frozen Ever After                                    ,       55, OPERATING    ,       2,     4,         1,        10,     15, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        10,     15, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Remy's Ratatouille Adventure                         ,       80, OPERATING    ,       2,     4,         1,        10,     15, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,        10,     15, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        10,     15, True
+Journey Into Imagination With Figment                ,       10, OPERATING    ,       2,     4,         1,        10,     15, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        10,     15, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Spaceship Earth                                      ,       25, OPERATING    ,       2,     4,         1,        10,     15, True
+Test Track                                           ,      125, OPERATING    ,       2,     4,         1,        10,     15, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Living with the Land                                 ,       10, OPERATING    ,       2,     4,         1,        10,     15, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        10,     15, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        10,     15, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        10,     15, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        10,     15, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        10,     15, True
+Soarin' Around the World                             ,       50, OPERATING    ,       2,     4,         1,        10,     15, True
+Mission: SPACE                                       ,       20, OPERATING    ,       2,     4,         1,        10,     15, True
+Guardians of the Galaxy: Cosmic Rewind               ,      120, OPERATING    ,       2,     4,         1,        10,     15, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        10,     15, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        10,     30, True
+The Seas with Nemo & Friends                         ,       30, OPERATING    ,       2,     4,         1,        10,     30, True
+Frozen Ever After                                    ,       65, OPERATING    ,       2,     4,         1,        10,     30, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        10,     30, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Remy's Ratatouille Adventure                         ,       80, OPERATING    ,       2,     4,         1,        10,     30, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,        10,     30, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        10,     30, True
+Journey Into Imagination With Figment                ,       20, OPERATING    ,       2,     4,         1,        10,     30, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        10,     30, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Spaceship Earth                                      ,       40, OPERATING    ,       2,     4,         1,        10,     30, True
+Test Track                                           ,       90, OPERATING    ,       2,     4,         1,        10,     30, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Living with the Land                                 ,       10, OPERATING    ,       2,     4,         1,        10,     30, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        10,     30, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        10,     30, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        10,     30, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        10,     30, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        10,     30, True
+Soarin' Around the World                             ,       50, OPERATING    ,       2,     4,         1,        10,     30, True
+Mission: SPACE                                       ,       20, OPERATING    ,       2,     4,         1,        10,     30, True
+Guardians of the Galaxy: Cosmic Rewind               ,       95, OPERATING    ,       2,     4,         1,        10,     30, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        10,     30, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        10,     45, True
+The Seas with Nemo & Friends                         ,       55, OPERATING    ,       2,     4,         1,        10,     45, True
+Frozen Ever After                                    ,       65, OPERATING    ,       2,     4,         1,        10,     45, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        10,     45, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,        10,     45, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,        10,     45, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        10,     45, True
+Journey Into Imagination With Figment                ,       25, OPERATING    ,       2,     4,         1,        10,     45, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        10,     45, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Spaceship Earth                                      ,       35, OPERATING    ,       2,     4,         1,        10,     45, True
+Test Track                                           ,       90, OPERATING    ,       2,     4,         1,        10,     45, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Living with the Land                                 ,       20, OPERATING    ,       2,     4,         1,        10,     45, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        10,     45, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        10,     45, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        10,     45, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        10,     45, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        10,     45, True
+Soarin' Around the World                             ,       65, OPERATING    ,       2,     4,         1,        10,     45, True
+Mission: SPACE                                       ,       20, OPERATING    ,       2,     4,         1,        10,     45, True
+Guardians of the Galaxy: Cosmic Rewind               ,       95, OPERATING    ,       2,     4,         1,        10,     45, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        10,     45, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        11,      0, True
+The Seas with Nemo & Friends                         ,       40, OPERATING    ,       2,     4,         1,        11,      0, True
+Frozen Ever After                                    ,       65, OPERATING    ,       2,     4,         1,        11,      0, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        11,      0, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,        11,      0, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,        11,      0, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        11,      0, True
+Journey Into Imagination With Figment                ,       25, OPERATING    ,       2,     4,         1,        11,      0, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        11,      0, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Spaceship Earth                                      ,       35, OPERATING    ,       2,     4,         1,        11,      0, True
+Test Track                                           ,       95, OPERATING    ,       2,     4,         1,        11,      0, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Living with the Land                                 ,       20, OPERATING    ,       2,     4,         1,        11,      0, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        11,      0, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        11,      0, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        11,      0, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        11,      0, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        11,      0, True
+Soarin' Around the World                             ,       75, OPERATING    ,       2,     4,         1,        11,      0, True
+Mission: SPACE                                       ,       25, OPERATING    ,       2,     4,         1,        11,      0, True
+Guardians of the Galaxy: Cosmic Rewind               ,       95, OPERATING    ,       2,     4,         1,        11,      0, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        11,      0, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        11,     15, True
+The Seas with Nemo & Friends                         ,       40, OPERATING    ,       2,     4,         1,        11,     15, True
+Frozen Ever After                                    ,       65, OPERATING    ,       2,     4,         1,        11,     15, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        11,     15, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,        11,     15, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Turtle Talk With Crush                               ,       15, OPERATING    ,       2,     4,         1,        11,     15, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        11,     15, True
+Journey Into Imagination With Figment                ,       25, OPERATING    ,       2,     4,         1,        11,     15, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        11,     15, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Spaceship Earth                                      ,       35, OPERATING    ,       2,     4,         1,        11,     15, True
+Test Track                                           ,      105, OPERATING    ,       2,     4,         1,        11,     15, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Living with the Land                                 ,       30, OPERATING    ,       2,     4,         1,        11,     15, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        11,     15, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        11,     15, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        11,     15, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        11,     15, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        11,     15, True
+Soarin' Around the World                             ,       75, OPERATING    ,       2,     4,         1,        11,     15, True
+Mission: SPACE                                       ,       25, OPERATING    ,       2,     4,         1,        11,     15, True
+Guardians of the Galaxy: Cosmic Rewind               ,       95, OPERATING    ,       2,     4,         1,        11,     15, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        11,     15, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        11,     30, True
+The Seas with Nemo & Friends                         ,       40, OPERATING    ,       2,     4,         1,        11,     30, True
+Frozen Ever After                                    ,       65, OPERATING    ,       2,     4,         1,        11,     30, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        11,     30, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,        11,     30, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Turtle Talk With Crush                               ,       25, OPERATING    ,       2,     4,         1,        11,     30, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        11,     30, True
+Journey Into Imagination With Figment                ,       20, OPERATING    ,       2,     4,         1,        11,     30, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        11,     30, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Spaceship Earth                                      ,       40, OPERATING    ,       2,     4,         1,        11,     30, True
+Test Track                                           ,      105, OPERATING    ,       2,     4,         1,        11,     30, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Living with the Land                                 ,       25, OPERATING    ,       2,     4,         1,        11,     30, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        11,     30, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        11,     30, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        11,     30, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        11,     30, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        11,     30, True
+Soarin' Around the World                             ,       75, OPERATING    ,       2,     4,         1,        11,     30, True
+Mission: SPACE                                       ,       15, OPERATING    ,       2,     4,         1,        11,     30, True
+Guardians of the Galaxy: Cosmic Rewind               ,       95, OPERATING    ,       2,     4,         1,        11,     30, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        11,     30, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        11,     45, True
+The Seas with Nemo & Friends                         ,       15, OPERATING    ,       2,     4,         1,        11,     45, True
+Frozen Ever After                                    ,       65, OPERATING    ,       2,     4,         1,        11,     45, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        11,     45, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Remy's Ratatouille Adventure                         ,       50, OPERATING    ,       2,     4,         1,        11,     45, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Turtle Talk With Crush                               ,       25, OPERATING    ,       2,     4,         1,        11,     45, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        11,     45, True
+Journey Into Imagination With Figment                ,       20, OPERATING    ,       2,     4,         1,        11,     45, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        11,     45, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Spaceship Earth                                      ,       40, OPERATING    ,       2,     4,         1,        11,     45, True
+Test Track                                           ,      110, OPERATING    ,       2,     4,         1,        11,     45, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Living with the Land                                 ,       15, OPERATING    ,       2,     4,         1,        11,     45, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        11,     45, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        11,     45, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        11,     45, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        11,     45, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        11,     45, True
+Soarin' Around the World                             ,       75, OPERATING    ,       2,     4,         1,        11,     45, True
+Mission: SPACE                                       ,       15, OPERATING    ,       2,     4,         1,        11,     45, True
+Guardians of the Galaxy: Cosmic Rewind               ,       95, OPERATING    ,       2,     4,         1,        11,     45, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        11,     45, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        12,      0, True
+The Seas with Nemo & Friends                         ,       20, OPERATING    ,       2,     4,         1,        12,      0, True
+Frozen Ever After                                    ,       75, OPERATING    ,       2,     4,         1,        12,      0, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        12,      0, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Remy's Ratatouille Adventure                         ,       70, OPERATING    ,       2,     4,         1,        12,      0, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Turtle Talk With Crush                               ,       25, OPERATING    ,       2,     4,         1,        12,      0, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        12,      0, True
+Journey Into Imagination With Figment                ,       15, OPERATING    ,       2,     4,         1,        12,      0, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        12,      0, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Spaceship Earth                                      ,       40, OPERATING    ,       2,     4,         1,        12,      0, True
+Test Track                                           ,      105, OPERATING    ,       2,     4,         1,        12,      0, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Living with the Land                                 ,       20, OPERATING    ,       2,     4,         1,        12,      0, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        12,      0, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        12,      0, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        12,      0, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        12,      0, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        12,      0, True
+Soarin' Around the World                             ,       65, OPERATING    ,       2,     4,         1,        12,      0, True
+Mission: SPACE                                       ,       25, OPERATING    ,       2,     4,         1,        12,      0, True
+Guardians of the Galaxy: Cosmic Rewind               ,      115, OPERATING    ,       2,     4,         1,        12,      0, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        12,      0, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        12,     15, True
+The Seas with Nemo & Friends                         ,       20, OPERATING    ,       2,     4,         1,        12,     15, True
+Frozen Ever After                                    ,       75, OPERATING    ,       2,     4,         1,        12,     15, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        12,     15, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Remy's Ratatouille Adventure                         ,       70, OPERATING    ,       2,     4,         1,        12,     15, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Turtle Talk With Crush                               ,       25, OPERATING    ,       2,     4,         1,        12,     15, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        12,     15, True
+Journey Into Imagination With Figment                ,       20, OPERATING    ,       2,     4,         1,        12,     15, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        12,     15, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Spaceship Earth                                      ,       30, OPERATING    ,       2,     4,         1,        12,     15, True
+Test Track                                           ,      105, OPERATING    ,       2,     4,         1,        12,     15, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Living with the Land                                 ,       20, OPERATING    ,       2,     4,         1,        12,     15, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        12,     15, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        12,     15, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        12,     15, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        12,     15, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        12,     15, True
+Soarin' Around the World                             ,       65, OPERATING    ,       2,     4,         1,        12,     15, True
+Mission: SPACE                                       ,       35, OPERATING    ,       2,     4,         1,        12,     15, True
+Guardians of the Galaxy: Cosmic Rewind               ,      115, OPERATING    ,       2,     4,         1,        12,     15, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        12,     15, True
+Disney and Pixar Short Film Festival                 ,         , OPERATING    ,       2,     4,         1,        12,     30, True
+The Seas with Nemo & Friends                         ,       35, OPERATING    ,       2,     4,         1,        12,     30, True
+Frozen Ever After                                    ,       70, OPERATING    ,       2,     4,         1,        12,     30, True
+Awesome Planet                                       ,         , OPERATING    ,       2,     4,         1,        12,     30, True
+American Heritage Gallery                            ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Remy's Ratatouille Adventure                         ,       65, OPERATING    ,       2,     4,         1,        12,     30, True
+Advanced Training Lab                                ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Stave Church Gallery                                 ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Turtle Talk With Crush                               ,       25, OPERATING    ,       2,     4,         1,        12,     30, True
+Bruce's Shark World                                  ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Impressions de France                                ,         , CLOSED       ,       2,     4,         1,        12,     30, True
+Journey Into Imagination With Figment                ,       20, OPERATING    ,       2,     4,         1,        12,     30, True
+Reflections of China                                 ,       15, OPERATING    ,       2,     4,         1,        12,     30, True
+The American Adventure                               ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Mexico Folk Art Gallery                              ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Spaceship Earth                                      ,       35, OPERATING    ,       2,     4,         1,        12,     30, True
+Test Track                                           ,      105, OPERATING    ,       2,     4,         1,        12,     30, True
+Kidcot Fun Stops                                     ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Living with the Land                                 ,       10, OPERATING    ,       2,     4,         1,        12,     30, True
+SeaBase Aquarium                                     ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+"ImageWorks - The ""What If"" Labs"                  ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Gallery of Arts and History                          ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+House of the Whispering Willows                      ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Project Tomorrow: Inventing the Wonders of the Future,         , OPERATING    ,       2,     4,         1,        12,     30, False
+"Journey of Water, Inspired by Moana"                ,         , OPERATING    ,       2,     4,         1,        12,     30, True
+Beauty and the Beast Sing-Along                      ,         , CLOSED       ,       2,     4,         1,        12,     30, True
+Palais du Cinéma                                     ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Bijutsu-kan Gallery                                  ,         , OPERATING    ,       2,     4,         1,        12,     30, False
+Canada Far and Wide in Circle-Vision 360             ,       15, OPERATING    ,       2,     4,         1,        12,     30, True
+Soarin' Around the World                             ,       65, OPERATING    ,       2,     4,         1,        12,     30, True
+Mission: SPACE                                       ,       25, OPERATING    ,       2,     4,         1,        12,     30, True
+Guardians of the Galaxy: Cosmic Rewind               ,      115, OPERATING    ,       2,     4,         1,        12,     30, True
+Gran Fiesta Tour Starring The Three Caballeros       ,        5, OPERATING    ,       2,     4,         1,        12,     30, True
