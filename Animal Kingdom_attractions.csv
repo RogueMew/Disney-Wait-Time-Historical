@@ -1,256 +1,256 @@
 name,waitTime,currentStatus,weekday,month,dayNumber,hourOfDay,minute,isRide
+Wilderness Explorers,,OPERATING,2,4,1,8,0,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,8,0,False
+Na'vi River Journey,15,OPERATING,2,4,1,8,0,True
+Discovery Island Trails,,OPERATING,2,4,1,8,0,False
+Affection Section,,REFURBISHMENT,2,4,1,8,0,False
+Maharajah Jungle Trek,,CLOSED,2,4,1,8,0,True
+Kali River Rapids,,CLOSED,2,4,1,8,0,True
+The Oasis Exhibits,,OPERATING,2,4,1,8,0,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,8,0,True
+Tree of Life,,OPERATING,2,4,1,8,0,False
+Gorilla Falls Exploration Trail,,CLOSED,2,4,1,8,0,True
+Avatar Flight of Passage,60,OPERATING,2,4,1,8,0,True
+Kilimanjaro Safaris,,CLOSED,2,4,1,8,0,True
+Expedition Everest - Legend of the Forbidden Mountain,5,OPERATING,2,4,1,8,0,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,8,0,True
+Wilderness Explorers,,OPERATING,2,4,1,8,15,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,8,15,False
+Na'vi River Journey,15,OPERATING,2,4,1,8,15,True
+Discovery Island Trails,,OPERATING,2,4,1,8,15,False
+Affection Section,,REFURBISHMENT,2,4,1,8,15,False
+Maharajah Jungle Trek,,CLOSED,2,4,1,8,15,True
+Kali River Rapids,,CLOSED,2,4,1,8,15,True
+The Oasis Exhibits,,OPERATING,2,4,1,8,15,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,8,15,True
+Tree of Life,,OPERATING,2,4,1,8,15,False
+Gorilla Falls Exploration Trail,,CLOSED,2,4,1,8,15,True
+Avatar Flight of Passage,90,OPERATING,2,4,1,8,15,True
+Kilimanjaro Safaris,25,OPERATING,2,4,1,8,15,True
+Expedition Everest - Legend of the Forbidden Mountain,5,OPERATING,2,4,1,8,15,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,8,15,True
+Wilderness Explorers,,OPERATING,2,4,1,8,30,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,8,30,False
+Na'vi River Journey,15,OPERATING,2,4,1,8,30,True
+Discovery Island Trails,,OPERATING,2,4,1,8,30,False
+Affection Section,,REFURBISHMENT,2,4,1,8,30,False
+Maharajah Jungle Trek,,CLOSED,2,4,1,8,30,True
+Kali River Rapids,,CLOSED,2,4,1,8,30,True
+The Oasis Exhibits,,OPERATING,2,4,1,8,30,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,8,30,True
+Tree of Life,,OPERATING,2,4,1,8,30,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,8,30,True
+Avatar Flight of Passage,125,OPERATING,2,4,1,8,30,True
+Kilimanjaro Safaris,30,OPERATING,2,4,1,8,30,True
+Expedition Everest - Legend of the Forbidden Mountain,10,OPERATING,2,4,1,8,30,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,8,30,True
+Wilderness Explorers,,OPERATING,2,4,1,8,45,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,8,45,False
+Na'vi River Journey,25,OPERATING,2,4,1,8,45,True
+Discovery Island Trails,,OPERATING,2,4,1,8,45,False
+Affection Section,,REFURBISHMENT,2,4,1,8,45,False
+Maharajah Jungle Trek,,CLOSED,2,4,1,8,45,True
+Kali River Rapids,,CLOSED,2,4,1,8,45,True
+The Oasis Exhibits,,OPERATING,2,4,1,8,45,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,8,45,True
+Tree of Life,,OPERATING,2,4,1,8,45,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,8,45,True
+Avatar Flight of Passage,120,OPERATING,2,4,1,8,45,True
+Kilimanjaro Safaris,30,OPERATING,2,4,1,8,45,True
+Expedition Everest - Legend of the Forbidden Mountain,10,OPERATING,2,4,1,8,45,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,8,45,True
+Wilderness Explorers,,OPERATING,2,4,1,9,0,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,9,0,False
+Na'vi River Journey,25,OPERATING,2,4,1,9,0,True
+Discovery Island Trails,,OPERATING,2,4,1,9,0,False
+Affection Section,,REFURBISHMENT,2,4,1,9,0,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,9,0,True
+Kali River Rapids,,CLOSED,2,4,1,9,0,True
+The Oasis Exhibits,,OPERATING,2,4,1,9,0,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,9,0,True
+Tree of Life,,OPERATING,2,4,1,9,0,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,9,0,True
+Avatar Flight of Passage,120,OPERATING,2,4,1,9,0,True
+Kilimanjaro Safaris,35,OPERATING,2,4,1,9,0,True
+Expedition Everest - Legend of the Forbidden Mountain,25,OPERATING,2,4,1,9,0,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,9,0,True
+Wilderness Explorers,,OPERATING,2,4,1,9,15,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,9,15,False
+Na'vi River Journey,60,OPERATING,2,4,1,9,15,True
+Discovery Island Trails,,OPERATING,2,4,1,9,15,False
+Affection Section,,REFURBISHMENT,2,4,1,9,15,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,9,15,True
+Kali River Rapids,,CLOSED,2,4,1,9,15,True
+The Oasis Exhibits,,OPERATING,2,4,1,9,15,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,9,15,True
+Tree of Life,,OPERATING,2,4,1,9,15,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,9,15,True
+Avatar Flight of Passage,105,OPERATING,2,4,1,9,15,True
+Kilimanjaro Safaris,40,OPERATING,2,4,1,9,15,True
+Expedition Everest - Legend of the Forbidden Mountain,30,OPERATING,2,4,1,9,15,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,9,15,True
+Wilderness Explorers,,OPERATING,2,4,1,9,30,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,9,30,False
+Na'vi River Journey,60,OPERATING,2,4,1,9,30,True
+Discovery Island Trails,,OPERATING,2,4,1,9,30,False
+Affection Section,,REFURBISHMENT,2,4,1,9,30,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,9,30,True
+Kali River Rapids,,CLOSED,2,4,1,9,30,True
+The Oasis Exhibits,,OPERATING,2,4,1,9,30,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,9,30,True
+Tree of Life,,OPERATING,2,4,1,9,30,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,9,30,True
+Avatar Flight of Passage,105,OPERATING,2,4,1,9,30,True
+Kilimanjaro Safaris,50,OPERATING,2,4,1,9,30,True
+Expedition Everest - Legend of the Forbidden Mountain,25,OPERATING,2,4,1,9,30,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,9,30,True
+Wilderness Explorers,,OPERATING,2,4,1,9,45,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,9,45,False
+Na'vi River Journey,65,OPERATING,2,4,1,9,45,True
+Discovery Island Trails,,OPERATING,2,4,1,9,45,False
+Affection Section,,REFURBISHMENT,2,4,1,9,45,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,9,45,True
+Kali River Rapids,,CLOSED,2,4,1,9,45,True
+The Oasis Exhibits,,OPERATING,2,4,1,9,45,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,9,45,True
+Tree of Life,,OPERATING,2,4,1,9,45,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,9,45,True
+Avatar Flight of Passage,90,OPERATING,2,4,1,9,45,True
+Kilimanjaro Safaris,55,OPERATING,2,4,1,9,45,True
+Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,9,45,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,9,45,True
+Wilderness Explorers,,OPERATING,2,4,1,10,0,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,10,0,False
+Na'vi River Journey,55,OPERATING,2,4,1,10,0,True
+Discovery Island Trails,,OPERATING,2,4,1,10,0,False
+Affection Section,,REFURBISHMENT,2,4,1,10,0,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,10,0,True
+Kali River Rapids,,CLOSED,2,4,1,10,0,True
+The Oasis Exhibits,,OPERATING,2,4,1,10,0,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,10,0,True
+Tree of Life,,OPERATING,2,4,1,10,0,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,10,0,True
+Avatar Flight of Passage,95,OPERATING,2,4,1,10,0,True
+Kilimanjaro Safaris,70,OPERATING,2,4,1,10,0,True
+Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,10,0,True
+Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,10,0,True
+Wilderness Explorers,,OPERATING,2,4,1,10,15,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,10,15,False
+Na'vi River Journey,45,OPERATING,2,4,1,10,15,True
+Discovery Island Trails,,OPERATING,2,4,1,10,15,False
+Affection Section,,REFURBISHMENT,2,4,1,10,15,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,10,15,True
+Kali River Rapids,30,OPERATING,2,4,1,10,15,True
+The Oasis Exhibits,,OPERATING,2,4,1,10,15,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,10,15,True
+Tree of Life,,OPERATING,2,4,1,10,15,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,10,15,True
+Avatar Flight of Passage,110,OPERATING,2,4,1,10,15,True
+Kilimanjaro Safaris,85,OPERATING,2,4,1,10,15,True
+Expedition Everest - Legend of the Forbidden Mountain,35,OPERATING,2,4,1,10,15,True
+Zootopia: Better Zoogether! - NEW!,25,OPERATING,2,4,1,10,15,True
+Wilderness Explorers,,OPERATING,2,4,1,10,30,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,10,30,False
+Na'vi River Journey,55,OPERATING,2,4,1,10,30,True
+Discovery Island Trails,,OPERATING,2,4,1,10,30,False
+Affection Section,,REFURBISHMENT,2,4,1,10,30,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,10,30,True
+Kali River Rapids,30,OPERATING,2,4,1,10,30,True
+The Oasis Exhibits,,OPERATING,2,4,1,10,30,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,10,30,True
+Tree of Life,,OPERATING,2,4,1,10,30,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,10,30,True
+Avatar Flight of Passage,115,OPERATING,2,4,1,10,30,True
+Kilimanjaro Safaris,90,OPERATING,2,4,1,10,30,True
+Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,10,30,True
+Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,10,30,True
+Wilderness Explorers,,OPERATING,2,4,1,10,45,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,10,45,False
+Na'vi River Journey,65,OPERATING,2,4,1,10,45,True
+Discovery Island Trails,,OPERATING,2,4,1,10,45,False
+Affection Section,,REFURBISHMENT,2,4,1,10,45,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,10,45,True
+Kali River Rapids,55,OPERATING,2,4,1,10,45,True
+The Oasis Exhibits,,OPERATING,2,4,1,10,45,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,10,45,True
+Tree of Life,,OPERATING,2,4,1,10,45,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,10,45,True
+Avatar Flight of Passage,110,OPERATING,2,4,1,10,45,True
+Kilimanjaro Safaris,70,OPERATING,2,4,1,10,45,True
+Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,10,45,True
+Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,10,45,True
+Wilderness Explorers,,OPERATING,2,4,1,11,0,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,11,0,False
+Na'vi River Journey,80,OPERATING,2,4,1,11,0,True
+Discovery Island Trails,,OPERATING,2,4,1,11,0,False
+Affection Section,,REFURBISHMENT,2,4,1,11,0,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,11,0,True
+Kali River Rapids,55,OPERATING,2,4,1,11,0,True
+The Oasis Exhibits,,OPERATING,2,4,1,11,0,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,11,0,True
+Tree of Life,,OPERATING,2,4,1,11,0,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,11,0,True
+Avatar Flight of Passage,110,OPERATING,2,4,1,11,0,True
+Kilimanjaro Safaris,80,OPERATING,2,4,1,11,0,True
+Expedition Everest - Legend of the Forbidden Mountain,60,OPERATING,2,4,1,11,0,True
+Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,11,0,True
+Wilderness Explorers,,OPERATING,2,4,1,11,15,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,11,15,False
+Na'vi River Journey,85,OPERATING,2,4,1,11,15,True
+Discovery Island Trails,,OPERATING,2,4,1,11,15,False
+Affection Section,,REFURBISHMENT,2,4,1,11,15,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,11,15,True
+Kali River Rapids,65,OPERATING,2,4,1,11,15,True
+The Oasis Exhibits,,OPERATING,2,4,1,11,15,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,11,15,True
+Tree of Life,,OPERATING,2,4,1,11,15,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,11,15,True
+Avatar Flight of Passage,95,OPERATING,2,4,1,11,15,True
+Kilimanjaro Safaris,70,OPERATING,2,4,1,11,15,True
+Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,11,15,True
+Zootopia: Better Zoogether! - NEW!,25,OPERATING,2,4,1,11,15,True
+Wilderness Explorers,,OPERATING,2,4,1,11,30,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,11,30,False
+Na'vi River Journey,75,OPERATING,2,4,1,11,30,True
+Discovery Island Trails,,OPERATING,2,4,1,11,30,False
+Affection Section,,REFURBISHMENT,2,4,1,11,30,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,11,30,True
+Kali River Rapids,85,OPERATING,2,4,1,11,30,True
+The Oasis Exhibits,,OPERATING,2,4,1,11,30,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,11,30,True
+Tree of Life,,OPERATING,2,4,1,11,30,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,11,30,True
+Avatar Flight of Passage,105,OPERATING,2,4,1,11,30,True
+Kilimanjaro Safaris,60,OPERATING,2,4,1,11,30,True
+Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,11,30,True
+Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,11,30,True
+Wilderness Explorers,,OPERATING,2,4,1,11,45,False
+Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,11,45,False
+Na'vi River Journey,75,OPERATING,2,4,1,11,45,True
+Discovery Island Trails,,OPERATING,2,4,1,11,45,False
+Affection Section,,REFURBISHMENT,2,4,1,11,45,False
+Maharajah Jungle Trek,5,OPERATING,2,4,1,11,45,True
+Kali River Rapids,100,OPERATING,2,4,1,11,45,True
+The Oasis Exhibits,,OPERATING,2,4,1,11,45,False
+Wildlife Express Train,,REFURBISHMENT,2,4,1,11,45,True
+Tree of Life,,OPERATING,2,4,1,11,45,False
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,11,45,True
+Avatar Flight of Passage,95,OPERATING,2,4,1,11,45,True
+Kilimanjaro Safaris,70,OPERATING,2,4,1,11,45,True
+Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,11,45,True
+Zootopia: Better Zoogether! - NEW!,45,OPERATING,2,4,1,11,45,True
 Wilderness Explorers,,OPERATING,2,4,1,12,0,False
 Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,12,0,False
-Na'vi River Journey,15,OPERATING,2,4,1,12,0,True
+Na'vi River Journey,80,OPERATING,2,4,1,12,0,True
 Discovery Island Trails,,OPERATING,2,4,1,12,0,False
 Affection Section,,REFURBISHMENT,2,4,1,12,0,False
-Maharajah Jungle Trek,,CLOSED,2,4,1,12,0,True
-Kali River Rapids,,CLOSED,2,4,1,12,0,True
+Maharajah Jungle Trek,5,OPERATING,2,4,1,12,0,True
+Kali River Rapids,95,OPERATING,2,4,1,12,0,True
 The Oasis Exhibits,,OPERATING,2,4,1,12,0,False
 Wildlife Express Train,,REFURBISHMENT,2,4,1,12,0,True
 Tree of Life,,OPERATING,2,4,1,12,0,False
-Gorilla Falls Exploration Trail,,CLOSED,2,4,1,12,0,True
-Avatar Flight of Passage,60,OPERATING,2,4,1,12,0,True
-Kilimanjaro Safaris,,CLOSED,2,4,1,12,0,True
-Expedition Everest - Legend of the Forbidden Mountain,5,OPERATING,2,4,1,12,0,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,12,0,True
-Wilderness Explorers,,OPERATING,2,4,1,12,15,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,12,15,False
-Na'vi River Journey,15,OPERATING,2,4,1,12,15,True
-Discovery Island Trails,,OPERATING,2,4,1,12,15,False
-Affection Section,,REFURBISHMENT,2,4,1,12,15,False
-Maharajah Jungle Trek,,CLOSED,2,4,1,12,15,True
-Kali River Rapids,,CLOSED,2,4,1,12,15,True
-The Oasis Exhibits,,OPERATING,2,4,1,12,15,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,12,15,True
-Tree of Life,,OPERATING,2,4,1,12,15,False
-Gorilla Falls Exploration Trail,,CLOSED,2,4,1,12,15,True
-Avatar Flight of Passage,90,OPERATING,2,4,1,12,15,True
-Kilimanjaro Safaris,25,OPERATING,2,4,1,12,15,True
-Expedition Everest - Legend of the Forbidden Mountain,5,OPERATING,2,4,1,12,15,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,12,15,True
-Wilderness Explorers,,OPERATING,2,4,1,12,30,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,12,30,False
-Na'vi River Journey,15,OPERATING,2,4,1,12,30,True
-Discovery Island Trails,,OPERATING,2,4,1,12,30,False
-Affection Section,,REFURBISHMENT,2,4,1,12,30,False
-Maharajah Jungle Trek,,CLOSED,2,4,1,12,30,True
-Kali River Rapids,,CLOSED,2,4,1,12,30,True
-The Oasis Exhibits,,OPERATING,2,4,1,12,30,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,12,30,True
-Tree of Life,,OPERATING,2,4,1,12,30,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,12,30,True
-Avatar Flight of Passage,125,OPERATING,2,4,1,12,30,True
-Kilimanjaro Safaris,30,OPERATING,2,4,1,12,30,True
-Expedition Everest - Legend of the Forbidden Mountain,10,OPERATING,2,4,1,12,30,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,12,30,True
-Wilderness Explorers,,OPERATING,2,4,1,12,45,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,12,45,False
-Na'vi River Journey,25,OPERATING,2,4,1,12,45,True
-Discovery Island Trails,,OPERATING,2,4,1,12,45,False
-Affection Section,,REFURBISHMENT,2,4,1,12,45,False
-Maharajah Jungle Trek,,CLOSED,2,4,1,12,45,True
-Kali River Rapids,,CLOSED,2,4,1,12,45,True
-The Oasis Exhibits,,OPERATING,2,4,1,12,45,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,12,45,True
-Tree of Life,,OPERATING,2,4,1,12,45,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,12,45,True
-Avatar Flight of Passage,120,OPERATING,2,4,1,12,45,True
-Kilimanjaro Safaris,30,OPERATING,2,4,1,12,45,True
-Expedition Everest - Legend of the Forbidden Mountain,10,OPERATING,2,4,1,12,45,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,12,45,True
-Wilderness Explorers,,OPERATING,2,4,1,13,0,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,13,0,False
-Na'vi River Journey,25,OPERATING,2,4,1,13,0,True
-Discovery Island Trails,,OPERATING,2,4,1,13,0,False
-Affection Section,,REFURBISHMENT,2,4,1,13,0,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,13,0,True
-Kali River Rapids,,CLOSED,2,4,1,13,0,True
-The Oasis Exhibits,,OPERATING,2,4,1,13,0,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,13,0,True
-Tree of Life,,OPERATING,2,4,1,13,0,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,13,0,True
-Avatar Flight of Passage,120,OPERATING,2,4,1,13,0,True
-Kilimanjaro Safaris,35,OPERATING,2,4,1,13,0,True
-Expedition Everest - Legend of the Forbidden Mountain,25,OPERATING,2,4,1,13,0,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,13,0,True
-Wilderness Explorers,,OPERATING,2,4,1,13,15,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,13,15,False
-Na'vi River Journey,60,OPERATING,2,4,1,13,15,True
-Discovery Island Trails,,OPERATING,2,4,1,13,15,False
-Affection Section,,REFURBISHMENT,2,4,1,13,15,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,13,15,True
-Kali River Rapids,,CLOSED,2,4,1,13,15,True
-The Oasis Exhibits,,OPERATING,2,4,1,13,15,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,13,15,True
-Tree of Life,,OPERATING,2,4,1,13,15,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,13,15,True
-Avatar Flight of Passage,105,OPERATING,2,4,1,13,15,True
-Kilimanjaro Safaris,40,OPERATING,2,4,1,13,15,True
-Expedition Everest - Legend of the Forbidden Mountain,30,OPERATING,2,4,1,13,15,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,13,15,True
-Wilderness Explorers,,OPERATING,2,4,1,13,30,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,13,30,False
-Na'vi River Journey,60,OPERATING,2,4,1,13,30,True
-Discovery Island Trails,,OPERATING,2,4,1,13,30,False
-Affection Section,,REFURBISHMENT,2,4,1,13,30,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,13,30,True
-Kali River Rapids,,CLOSED,2,4,1,13,30,True
-The Oasis Exhibits,,OPERATING,2,4,1,13,30,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,13,30,True
-Tree of Life,,OPERATING,2,4,1,13,30,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,13,30,True
-Avatar Flight of Passage,105,OPERATING,2,4,1,13,30,True
-Kilimanjaro Safaris,50,OPERATING,2,4,1,13,30,True
-Expedition Everest - Legend of the Forbidden Mountain,25,OPERATING,2,4,1,13,30,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,13,30,True
-Wilderness Explorers,,OPERATING,2,4,1,13,45,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,13,45,False
-Na'vi River Journey,65,OPERATING,2,4,1,13,45,True
-Discovery Island Trails,,OPERATING,2,4,1,13,45,False
-Affection Section,,REFURBISHMENT,2,4,1,13,45,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,13,45,True
-Kali River Rapids,,CLOSED,2,4,1,13,45,True
-The Oasis Exhibits,,OPERATING,2,4,1,13,45,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,13,45,True
-Tree of Life,,OPERATING,2,4,1,13,45,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,13,45,True
-Avatar Flight of Passage,90,OPERATING,2,4,1,13,45,True
-Kilimanjaro Safaris,55,OPERATING,2,4,1,13,45,True
-Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,13,45,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,13,45,True
-Wilderness Explorers,,OPERATING,2,4,1,14,0,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,14,0,False
-Na'vi River Journey,55,OPERATING,2,4,1,14,0,True
-Discovery Island Trails,,OPERATING,2,4,1,14,0,False
-Affection Section,,REFURBISHMENT,2,4,1,14,0,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,14,0,True
-Kali River Rapids,,CLOSED,2,4,1,14,0,True
-The Oasis Exhibits,,OPERATING,2,4,1,14,0,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,14,0,True
-Tree of Life,,OPERATING,2,4,1,14,0,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,14,0,True
-Avatar Flight of Passage,95,OPERATING,2,4,1,14,0,True
-Kilimanjaro Safaris,70,OPERATING,2,4,1,14,0,True
-Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,14,0,True
-Zootopia: Better Zoogether! - NEW!,10,OPERATING,2,4,1,14,0,True
-Wilderness Explorers,,OPERATING,2,4,1,14,15,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,14,15,False
-Na'vi River Journey,45,OPERATING,2,4,1,14,15,True
-Discovery Island Trails,,OPERATING,2,4,1,14,15,False
-Affection Section,,REFURBISHMENT,2,4,1,14,15,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,14,15,True
-Kali River Rapids,30,OPERATING,2,4,1,14,15,True
-The Oasis Exhibits,,OPERATING,2,4,1,14,15,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,14,15,True
-Tree of Life,,OPERATING,2,4,1,14,15,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,14,15,True
-Avatar Flight of Passage,110,OPERATING,2,4,1,14,15,True
-Kilimanjaro Safaris,85,OPERATING,2,4,1,14,15,True
-Expedition Everest - Legend of the Forbidden Mountain,35,OPERATING,2,4,1,14,15,True
-Zootopia: Better Zoogether! - NEW!,25,OPERATING,2,4,1,14,15,True
-Wilderness Explorers,,OPERATING,2,4,1,14,30,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,14,30,False
-Na'vi River Journey,55,OPERATING,2,4,1,14,30,True
-Discovery Island Trails,,OPERATING,2,4,1,14,30,False
-Affection Section,,REFURBISHMENT,2,4,1,14,30,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,14,30,True
-Kali River Rapids,30,OPERATING,2,4,1,14,30,True
-The Oasis Exhibits,,OPERATING,2,4,1,14,30,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,14,30,True
-Tree of Life,,OPERATING,2,4,1,14,30,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,14,30,True
-Avatar Flight of Passage,115,OPERATING,2,4,1,14,30,True
-Kilimanjaro Safaris,90,OPERATING,2,4,1,14,30,True
-Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,14,30,True
-Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,14,30,True
-Wilderness Explorers,,OPERATING,2,4,1,14,45,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,14,45,False
-Na'vi River Journey,65,OPERATING,2,4,1,14,45,True
-Discovery Island Trails,,OPERATING,2,4,1,14,45,False
-Affection Section,,REFURBISHMENT,2,4,1,14,45,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,14,45,True
-Kali River Rapids,55,OPERATING,2,4,1,14,45,True
-The Oasis Exhibits,,OPERATING,2,4,1,14,45,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,14,45,True
-Tree of Life,,OPERATING,2,4,1,14,45,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,14,45,True
-Avatar Flight of Passage,110,OPERATING,2,4,1,14,45,True
-Kilimanjaro Safaris,70,OPERATING,2,4,1,14,45,True
-Expedition Everest - Legend of the Forbidden Mountain,40,OPERATING,2,4,1,14,45,True
-Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,14,45,True
-Wilderness Explorers,,OPERATING,2,4,1,15,0,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,15,0,False
-Na'vi River Journey,80,OPERATING,2,4,1,15,0,True
-Discovery Island Trails,,OPERATING,2,4,1,15,0,False
-Affection Section,,REFURBISHMENT,2,4,1,15,0,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,15,0,True
-Kali River Rapids,55,OPERATING,2,4,1,15,0,True
-The Oasis Exhibits,,OPERATING,2,4,1,15,0,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,15,0,True
-Tree of Life,,OPERATING,2,4,1,15,0,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,15,0,True
-Avatar Flight of Passage,110,OPERATING,2,4,1,15,0,True
-Kilimanjaro Safaris,80,OPERATING,2,4,1,15,0,True
-Expedition Everest - Legend of the Forbidden Mountain,60,OPERATING,2,4,1,15,0,True
-Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,15,0,True
-Wilderness Explorers,,OPERATING,2,4,1,15,15,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,15,15,False
-Na'vi River Journey,85,OPERATING,2,4,1,15,15,True
-Discovery Island Trails,,OPERATING,2,4,1,15,15,False
-Affection Section,,REFURBISHMENT,2,4,1,15,15,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,15,15,True
-Kali River Rapids,65,OPERATING,2,4,1,15,15,True
-The Oasis Exhibits,,OPERATING,2,4,1,15,15,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,15,15,True
-Tree of Life,,OPERATING,2,4,1,15,15,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,15,15,True
-Avatar Flight of Passage,95,OPERATING,2,4,1,15,15,True
-Kilimanjaro Safaris,70,OPERATING,2,4,1,15,15,True
-Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,15,15,True
-Zootopia: Better Zoogether! - NEW!,25,OPERATING,2,4,1,15,15,True
-Wilderness Explorers,,OPERATING,2,4,1,15,30,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,15,30,False
-Na'vi River Journey,75,OPERATING,2,4,1,15,30,True
-Discovery Island Trails,,OPERATING,2,4,1,15,30,False
-Affection Section,,REFURBISHMENT,2,4,1,15,30,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,15,30,True
-Kali River Rapids,85,OPERATING,2,4,1,15,30,True
-The Oasis Exhibits,,OPERATING,2,4,1,15,30,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,15,30,True
-Tree of Life,,OPERATING,2,4,1,15,30,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,15,30,True
-Avatar Flight of Passage,105,OPERATING,2,4,1,15,30,True
-Kilimanjaro Safaris,60,OPERATING,2,4,1,15,30,True
-Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,15,30,True
-Zootopia: Better Zoogether! - NEW!,35,OPERATING,2,4,1,15,30,True
-Wilderness Explorers,,OPERATING,2,4,1,15,45,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,15,45,False
-Na'vi River Journey,75,OPERATING,2,4,1,15,45,True
-Discovery Island Trails,,OPERATING,2,4,1,15,45,False
-Affection Section,,REFURBISHMENT,2,4,1,15,45,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,15,45,True
-Kali River Rapids,100,OPERATING,2,4,1,15,45,True
-The Oasis Exhibits,,OPERATING,2,4,1,15,45,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,15,45,True
-Tree of Life,,OPERATING,2,4,1,15,45,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,15,45,True
-Avatar Flight of Passage,95,OPERATING,2,4,1,15,45,True
-Kilimanjaro Safaris,70,OPERATING,2,4,1,15,45,True
-Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,15,45,True
-Zootopia: Better Zoogether! - NEW!,45,OPERATING,2,4,1,15,45,True
-Wilderness Explorers,,OPERATING,2,4,1,16,0,False
-Animal Care at Conservation Station,,REFURBISHMENT,2,4,1,16,0,False
-Na'vi River Journey,80,OPERATING,2,4,1,16,0,True
-Discovery Island Trails,,OPERATING,2,4,1,16,0,False
-Affection Section,,REFURBISHMENT,2,4,1,16,0,False
-Maharajah Jungle Trek,5,OPERATING,2,4,1,16,0,True
-Kali River Rapids,95,OPERATING,2,4,1,16,0,True
-The Oasis Exhibits,,OPERATING,2,4,1,16,0,False
-Wildlife Express Train,,REFURBISHMENT,2,4,1,16,0,True
-Tree of Life,,OPERATING,2,4,1,16,0,False
-Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,16,0,True
-Avatar Flight of Passage,85,OPERATING,2,4,1,16,0,True
-Kilimanjaro Safaris,75,OPERATING,2,4,1,16,0,True
-Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,16,0,True
-Zootopia: Better Zoogether! - NEW!,25,OPERATING,2,4,1,16,0,True
+Gorilla Falls Exploration Trail,5,OPERATING,2,4,1,12,0,True
+Avatar Flight of Passage,85,OPERATING,2,4,1,12,0,True
+Kilimanjaro Safaris,75,OPERATING,2,4,1,12,0,True
+Expedition Everest - Legend of the Forbidden Mountain,,DOWN,2,4,1,12,0,True
+Zootopia: Better Zoogether! - NEW!,25,OPERATING,2,4,1,12,0,True
