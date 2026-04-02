@@ -340,7 +340,7 @@ class Park:
 
     def _getParkSchedule(self):
         response = web.get(URL.schedule.format(self.slug)).json()
-        today = [day for day in response["schedule"] if day["date"] == datetime.datetime.now().strftime("%Y-%m-%d") and "description" not in day]
+        today = [day for day in response["schedule"] if day["date"] == datetime.datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d") and "description" not in day]
         today = today[0]
 
         self.openTime = datetime.datetime.fromisoformat(today["openingTime"])
