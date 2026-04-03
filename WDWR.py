@@ -7,10 +7,13 @@ import datetime
 import os
 import pandas
 import pytz
+import pymongo
 
 from typing import Iterable, Literal, TypeVar, Generic
 from enum import StrEnum
 from geopy.distance import geodesic
+
+from fuzzywuzzy import process
 
 class Status(StrEnum):
     Operating = "OPERATING"
@@ -340,7 +343,7 @@ class Park:
 
     def _getParkSchedule(self):
         response = web.get(URL.schedule.format(self.slug)).json()
-        today = [day for day in response["schedule"] if day["date"] == datetime.datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d") and "description" not in day]
+        today = [day for day in response["schedule"] if day["date"] == datetime.datetime.now().strftime("%Y-%m-%d") and "description" not in day]
         today = today[0]
 
         self.openTime = datetime.datetime.fromisoformat(today["openingTime"])
@@ -379,7 +382,7 @@ class Park:
         else:
             return False
 
-    def checkWaitTimes(self, timeZone="America/New_York"):
+    def checkWaitTimes(self, timeZone="US/Eastern"):
         timeBetween = datetime.datetime.now(pytz.timezone(timeZone)) - self.lastTimeCheck
         if timeBetween.seconds < self.waitBetweenTimeChecks:
             raise RuntimeError(f"Time Was Checked {timeBetween.seconds} seconds ago")
@@ -394,14 +397,58 @@ class Park:
             "restaurants" : [restaurant.dict for restaurant in self.restaurants] 
         }
 
-class MachineLearning:
-    fileName : str
-    dataFrame : pandas.DataFrame
+class MongoDBUtils:
+    connectionString : str
+    databaseName : str
+    collectionName : str
+    cluster : pymongo.MongoClient
 
-    def __init__(self, filename) -> None:
-        self.features = ["weekday", "hourOfDay", "month"]
-        target= "waitTime" 
-        self.fileName = self.fileName
+    def __init__(self, connectionString, clusterName, collection,) -> None:
+        self.connectionString = connectionString
+        self.clusterName = clusterName
+        self.collectionName = collection
 
-    def _readCSV(self):
-        ...
+        self.cluster = pymongo.MongoClient(self.connectionString)
+        self.database = self.cluster[self.clusterName]
+        self.collection = self.database[self.collectionName]
+        pass
+
+    def pushAllAttractions(self, park: Park):
+        
+        def attractionToMongoDB(attraction: Attraction):
+            attractionDict = {
+                "name" : attraction.name,
+                "currentStatus" : attraction.currentStatus,
+                "waitTime" : attraction.waitTime,
+                "isRide" : attraction.isRide,
+                "checkTime" : park.lastTimeCheck,
+                "parkName" : park.name
+            }
+
+            return attractionDict
+        
+        listOfAttractions = list(map(attractionToMongoDB, park.attractions))
+        self.collection.insert_many(listOfAttractions)
+
+    def pushOneAttraction(self, park: Park, attractionName: str, minPercentageAllowed:int = 80):
+        (closestAttractionName, percentage) = process.extractOne(attractionName, park.attractions.names) # type: ignore
+        
+
+        if percentage < minPercentageAllowed:
+            raise KeyError(f"{attractionName} was not found in this Park")
+
+        print(f"Matched {attractionName} to {closestAttractionName} with a similarity of {percentage}")
+
+
+        attraction = park.attractions[park.attractions.names.index(closestAttractionName)]
+
+        attractionDict = {
+                "name" : attraction.name,
+                "currentStatus" : attraction.currentStatus,
+                "waitTime" : attraction.waitTime,
+                "isRide" : attraction.isRide,
+                "checkTime" : park.lastTimeCheck,
+                "parkName" : park.name
+            }
+        
+        self.collection.insert_one(attractionDict)
