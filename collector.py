@@ -12,7 +12,9 @@ def main():
     else:
         print(f"{hollywood.name} is closed at {hollywood.closeTime}")
 
-    dak = WDWR.Park("Animal Kingdom", WDWR.ParkSlugs.DAK)
+    return
+
+    dak = WDWR.Park("Animal Kingdom", WDWR.ParkSlugs.dak)
     print(f"Park times are {dak.openTime} - {dak.closeTime}")
     if dak.isParkOpen():
         print(f"Saving {dak.name} as a csv")
@@ -20,7 +22,7 @@ def main():
     else:
         print(f"{dak.name} is closed at {dak.closeTime}")
 
-    magic = WDWR.Park("Magic Kingdom", WDWR.ParkSlugs.Magic)
+    magic = WDWR.Park("Magic Kingdom", WDWR.ParkSlugs.magic)
     print(f"Park times are {magic.openTime} - {magic.closeTime}")
     if magic.isParkOpen():
         print(f"Saving {magic.name} as a csv")
