@@ -12,8 +12,6 @@ def main():
     else:
         print(f"{hollywood.name} is closed at {hollywood.closeTime}")
 
-    return
-
     dak = WDWR.Park("Animal Kingdom", WDWR.ParkSlugs.dak)
     print(f"Park times are {dak.openTime} - {dak.closeTime}")
     if dak.isParkOpen():
