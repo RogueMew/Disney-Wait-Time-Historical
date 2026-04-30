@@ -8,6 +8,7 @@ import os
 import pandas
 import pytz
 import pymongo
+import math
 
 from typing import Iterable, Literal, TypeVar, Generic
 from enum import StrEnum
@@ -39,45 +40,92 @@ class ParkSlugs(StrEnum):
     dak = "disneysanimalkingdomthemepark"
 
 class UtilFuncs:
-    def WifiCheck(self):
+    @staticmethod
+    def WifiCheck():
+        """Does a WIFI connection check and returns if connected to the internet and returns a bool
+
+        Returns:
+            bool: True if connected or False if not connected
+        """
         try:
             web.get("https://www.google.com", timeout=5)
             return True
         except (web.ConnectTimeout, web.ConnectionError):
             return False
-        
-    def printJson(self, json):
+    
+    @staticmethod
+    def printJson(json):
+        """Quick DUmb debug for Jason because im to lazy to write this out everytime
+
+        Args:
+            json (Any): The json I need to debug
+        """
         print(jason.dumps(json, indent=4))
-        
-    def hasHeaders(self, filePath):
+
+    @staticmethod    
+    def hasHeaders(filePath: str):
+        """A rudimentary check if the file has a header but not checking if its CSV, will need to update to do that. Will I at some point yes, but not important right now.
+
+        Args:
+            filePath (str): the filepath to the CSV file
+
+        Returns:
+            bool: True if it has data(AKA headers) and False if not or does not exist
+        """
         if not os.path.exists(filePath):
             return False
         
-        if not os.path.getsize(filePath) == 0:
-            return False
-        
-        return True
+        with open(filePath, "r") as f:
+            return bool(f.readline().strip())
+
+    @staticmethod
+    def correctHeaders(filePath):
+        ...
 
 class LongitudeLatitude:
     longitude: float
     latitude: float
     
     def __init__(self, longitude: float, latitude: float) -> None:
+        """Creates a new LongitudeLatitude Item
+
+        Args:
+            longitude (float): The longitude of a point
+            latitude (float): The latitude of a point
+        """
         self.latitude = latitude
         self.longitude = longitude
 
     @property
     def toTuple(self):
+        """Returns the data in a tuple type
+
+        Returns:
+            tuple[float, float]: Tuple where the first object is the longitude and the second object is the latitude
+        """
         return (self.longitude, self.latitude)
     
     @property
     def toDict(self):
+        """Returns the data in a dictionary
+
+        Returns:
+            dict[str, float]: Returns a two item dictionary where the keys are longitude or latitude and the data is likewise
+        """
         return {
             "longitude" : self.longitude,
             "latitude" : self.latitude
             }
     
     def distanceBetween(self, location: "LongitudeLatitude"):
+        """Returns the distance between the current LongitudeLatitude object and another one
+
+        Args:
+            location (LongitudeLatitude): The other point that you want to calculate the distance to
+
+        Returns:
+            _type_: _description_
+        """
         return geodesic(self.toTuple, location.toTuple)
     
     def __str__(self) -> str:
@@ -96,6 +144,13 @@ class _BaseEntity:
     properties = []
     
     def __init__(self, name: str, location: LongitudeLatitude, id:str) -> None:
+        """Creates a new _BaseEntity object, this is the backbone for all the other objects such as Attractions, Shows, and Restaurants
+
+        Args:
+            name (str): The name of the Entity
+            location (LongitudeLatitude): The location of the Entity in Longitude and Latitude as the custom ObjectType LongitudeLatitude
+            id (str): The Id of the attraction based off the ThemeparkWiki API
+        """
         self.name = name
         self.location = location
         self.waitTime = None
@@ -108,6 +163,11 @@ class _BaseEntity:
 
     @property
     def dict(self):
+        """Sorts the data into a nice and neat dictionary item
+
+        Returns:
+            dict[str, Any]: All the data that is kind of important stored as a dict with str keys and data to match
+        """
         return {
             "name" : self.name,
             "location" : self.location.toDict,
@@ -121,6 +181,13 @@ class Attraction(_BaseEntity):
     isRide: bool
 
     def __init__(self, name: str, location: LongitudeLatitude, id:str) -> None:
+        """Creates a new Attraction Item based off the _BaseEntity Backbone
+
+        Args:
+            name (str): Name of the Attraction
+            location (LongitudeLatitude): The Longitude and Latitude of an attraction in the custom datatype of LongitudeLatitude
+            id (str): Id given to hte attraction by ThemeparksWiki API
+        """
         super().__init__(name, location, id)
         self.isRide = False
         self.distanceFromUser = None
@@ -131,12 +198,24 @@ class Attraction(_BaseEntity):
     
     @property
     def dict(self):
+        """Returns the attraction as a dictionary object
+
+        Returns:
+            dict[str, Any]: All the data like stated before, nothing to new
+        """
         dictionary = super().dict 
         dictionary.update({"isRide" : self.isRide})
         return dictionary
         
 class Restaurant(_BaseEntity):
     def __init__(self, name: str, location: LongitudeLatitude, id: str) -> None:
+        """I mean same as Attractions but with a different name and not much added
+
+        Args:
+            name (str): Name of the Restaurant
+            location (LongitudeLatitude): Same Gimmick
+            id (str): Id Assigned by ThemeParkWiki API
+        """
         super().__init__(name, location, id)
 
 class Show(_BaseEntity):
@@ -144,6 +223,13 @@ class Show(_BaseEntity):
     isMeetGreet: bool
 
     def __init__(self, name: str, location: LongitudeLatitude, id) -> None:
+        """Creates a new... Im done retyping the same thing; please see attractions for the documentation.(I know its just me in the future looking at this because I forgot how everything worked)
+
+        Args:
+            name (str): Same Deal
+            location (LongitudeLatitude): Same Deal
+            id (int): Same Deal
+        """
         super().__init__(name, location, id)
         self.properties.append("isMeetGreet")
 
@@ -216,7 +302,7 @@ class ActivityList(list[T], Generic[T]):
 
         return dictionary
 
-    def archiveToCSV(self, parkName: str, lastTimeCheck=datetime.datetime.now()):
+    def archiveToCSV(self, parkName: str, lastTimeCheck=datetime.datetime.now(), filePath=None):
 
         typeDict = {
             Attraction : Attraction("",LongitudeLatitude(0,0),""),
@@ -230,10 +316,13 @@ class ActivityList(list[T], Generic[T]):
             Restaurant : "restaurant"
         }
 
-        with open(f"{parkName}_{typeDictStr[self.activityType]}.csv", mode="a", newline="") as csvFile:
+        if filePath is None:
+            filePath = f"{parkName}_{typeDictStr[self.activityType]}.csv"
+
+        with open(filePath, mode="a", newline="") as csvFile:
             writer = csv.DictWriter(csvFile, typeDict[self.activityType].properties)
 
-            if UtilFuncs().hasHeaders(f"{parkName}_{typeDictStr[self.activityType]}.csv"):
+            if UtilFuncs.hasHeaders(f"{parkName}_{typeDictStr[self.activityType]}.csv"):
                 writer.writeheader()
             
             activities = self.toDict()
@@ -363,7 +452,7 @@ class Park:
 
         self.waitBetweenTimeChecks = 300
 
-        if not UtilFuncs().WifiCheck():
+        if not UtilFuncs.WifiCheck():
             raise ConnectionError("Cannot connect to the wifi")
         
         asyncio.run(main=self._getParkActivitiesData())
@@ -385,7 +474,7 @@ class Park:
             raise RuntimeError(f"Time Was Checked {timeBetween.seconds} seconds ago")
         
         response = web.get(URL.liveData.format(self.slug))
-        self._getWaitTimes(response)     
+        self._getWaitTimes(response.json())     
 
     def toDict(self):
          return {
@@ -394,58 +483,51 @@ class Park:
             "restaurants" : [restaurant.dict for restaurant in self.restaurants] 
         }
 
-class MongoDBUtils:
-    connectionString : str
-    databaseName : str
-    collectionName : str
-    cluster : pymongo.MongoClient
+class dataCleanup:
+    filePath: str
+    dataFrame: pandas.DataFrame
+    latestVersion: bool
 
-    def __init__(self, connectionString, clusterName, collection,) -> None:
-        self.connectionString = connectionString
-        self.clusterName = clusterName
-        self.collectionName = collection
-
-        self.cluster = pymongo.MongoClient(self.connectionString)
-        self.database = self.cluster[self.clusterName]
-        self.collection = self.database[self.collectionName]
-        pass
-
-    def pushAllAttractions(self, park: Park):
+    def __init__(self, filePath:str, latestVersion:bool =True, printChange: bool=True) -> None:
+        self.filePath = filePath
+        self.latestVersion = latestVersion
+        if not os.path.exists(self.filePath):
+            raise FileExistsError(f"The file {os.path.split(self.filePath)[1]} does not exist at the file path")
+        elif not UtilFuncs.hasHeaders(self.filePath):
+            raise ValueError("This File has no Data in it")
         
-        def attractionToMongoDB(attraction: Attraction):
-            attractionDict = {
-                "name" : attraction.name,
-                "currentStatus" : attraction.currentStatus,
-                "waitTime" : attraction.waitTime,
-                "isRide" : attraction.isRide,
-                "checkTime" : park.lastTimeCheck,
-                "parkName" : park.name
-            }
+        self.dataFrame = pandas.read_csv(self.filePath)
 
-            return attractionDict
+
+    def _findSimilars(self, listofData: list) :
+        replaceDict = {}
+        i = 0
+        while len(listofData) > 1:
+            query = listofData.pop(0)
+            fuzzyCheck = process.extractOne(query, listofData)
+            if fuzzyCheck == None:
+                continue
+            
+            if fuzzyCheck[1] > 90:
+                replaceDict.update({query : fuzzyCheck[0]})
+        return replaceDict
+    
+    def _replaceData(self, replaceDict: dict, originalList: list):
+        for item in replaceDict:
+            if originalList[::-1].index(item) < originalList[::-1].index(replaceDict[item]) and self.latestVersion:
+                self.dataFrame.replace(replaceDict[item], item, inplace=True)
+                print(f"Replacing {replaceDict[item]} with {item}")
+            else:
+                self.dataFrame.replace(item, replaceDict[item], inplace=True)          
+                print(f"Replacing {item} with {replaceDict[item]}")
         
-        listOfAttractions = list(map(attractionToMongoDB, park.attractions))
-        self.collection.insert_many(listOfAttractions)
+    def standardizeNames(self):
+        originalList = self.dataFrame["name"].to_list()
+        nameList = list(set(originalList))
+        self._replaceData(self._findSimilars(nameList.copy()), originalList)
 
-    def pushOneAttraction(self, park: Park, attractionName: str, minPercentageAllowed:int = 80):
-        (closestAttractionName, percentage) = process.extractOne(attractionName, park.attractions.names) # type: ignore
+    def export(self, differentFilePath=None):
+        if differentFilePath is None:
+            differentFilePath = self.filePath
         
-
-        if percentage < minPercentageAllowed:
-            raise KeyError(f"{attractionName} was not found in this Park")
-
-        print(f"Matched {attractionName} to {closestAttractionName} with a similarity of {percentage}")
-
-
-        attraction = park.attractions[park.attractions.names.index(closestAttractionName)]
-
-        attractionDict = {
-                "name" : attraction.name,
-                "currentStatus" : attraction.currentStatus,
-                "waitTime" : attraction.waitTime,
-                "isRide" : attraction.isRide,
-                "checkTime" : park.lastTimeCheck,
-                "parkName" : park.name
-            }
-        
-        self.collection.insert_one(attractionDict)
+        self.dataFrame.to_csv(differentFilePath, index=False)
