@@ -48451,3 +48451,37 @@ Soarin' Around the World,60,OPERATING,05-02-2026,11:30,True
 Mission: SPACE,35,OPERATING,05-02-2026,11:30,True
 Guardians of the Galaxy: Cosmic Rewind,125,OPERATING,05-02-2026,11:30,True
 Gran Fiesta Tour Starring The Three Caballeros,5,OPERATING,05-02-2026,11:30,True
+name,waitTime,currentStatus,date,time,isRide
+Disney and Pixar Short Film Festival,,OPERATING,05-02-2026,11:45,True
+The Seas with Nemo & Friends,40,OPERATING,05-02-2026,11:45,True
+Frozen Ever After,50,OPERATING,05-02-2026,11:45,True
+Awesome Planet,,OPERATING,05-02-2026,11:45,True
+American Heritage Gallery,,OPERATING,05-02-2026,11:45,False
+Remy's Ratatouille Adventure,35,OPERATING,05-02-2026,11:45,True
+Advanced Training Lab,,OPERATING,05-02-2026,11:45,False
+Stave Church Gallery,,OPERATING,05-02-2026,11:45,False
+Turtle Talk With Crush,15,OPERATING,05-02-2026,11:45,True
+Bruce's Shark World,,OPERATING,05-02-2026,11:45,False
+Impressions de France,,CLOSED,05-02-2026,11:45,False
+Journey Into Imagination With Figment,10,OPERATING,05-02-2026,11:45,True
+Reflections of China,10,OPERATING,05-02-2026,11:45,True
+The American Adventure,,OPERATING,05-02-2026,11:45,False
+Mexico Folk Art Gallery,,OPERATING,05-02-2026,11:45,False
+Spaceship Earth,20,OPERATING,05-02-2026,11:45,True
+Test Track,90,OPERATING,05-02-2026,11:45,True
+Kidcot Fun Stops,,OPERATING,05-02-2026,11:45,False
+Living with the Land,25,OPERATING,05-02-2026,11:45,True
+SeaBase Aquarium,,OPERATING,05-02-2026,11:45,False
+"ImageWorks - The ""What If"" Labs",,OPERATING,05-02-2026,11:45,False
+Gallery of Arts and History,,OPERATING,05-02-2026,11:45,False
+House of the Whispering Willows,,OPERATING,05-02-2026,11:45,False
+Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,05-02-2026,11:45,False
+"Journey of Water, Inspired by Moana",,OPERATING,05-02-2026,11:45,True
+Beauty and the Beast Sing-Along,,CLOSED,05-02-2026,11:45,False
+Palais du Cinéma,,OPERATING,05-02-2026,11:45,False
+Bijutsu-kan Gallery,,OPERATING,05-02-2026,11:45,False
+Canada Far and Wide in Circle-Vision 360,10,OPERATING,05-02-2026,11:45,True
+Soarin' Around the World,50,OPERATING,05-02-2026,11:45,True
+Mission: SPACE,35,OPERATING,05-02-2026,11:45,True
+Guardians of the Galaxy: Cosmic Rewind,110,OPERATING,05-02-2026,11:45,True
+Gran Fiesta Tour Starring The Three Caballeros,10,OPERATING,05-02-2026,11:45,True
