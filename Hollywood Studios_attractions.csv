@@ -17719,3 +17719,15 @@ Star Wars: Rise of the Resistance,65,OPERATING,05-03-2026,14:30,True
 Toy Story Mania!,45,OPERATING,05-03-2026,14:30,True
 Star Tours – The Adventures Continue,5,OPERATING,05-03-2026,14:30,True
 Rock 'n' Roller Coaster Starring Aerosmith,,REFURBISHMENT,05-03-2026,14:30,False
+name,waitTime,currentStatus,date,time,isRide
+Millennium Falcon: Smugglers Run,50,OPERATING,05-03-2026,14:45,True
+The Twilight Zone™ Tower of Terror,160,OPERATING,05-03-2026,14:45,True
+Walt Disney Presents,,OPERATING,05-03-2026,14:45,True
+Alien Swirling Saucers,45,OPERATING,05-03-2026,14:45,True
+Slinky Dog Dash,105,OPERATING,05-03-2026,14:45,True
+Vacation Fun - An Original Animated Short with Mickey & Minnie,,CLOSED,05-03-2026,14:45,True
+Mickey & Minnie's Runaway Railway,40,OPERATING,05-03-2026,14:45,True
+Star Wars: Rise of the Resistance,70,OPERATING,05-03-2026,14:45,True
+Toy Story Mania!,55,OPERATING,05-03-2026,14:45,True
+Star Tours – The Adventures Continue,5,OPERATING,05-03-2026,14:45,True
+Rock 'n' Roller Coaster Starring Aerosmith,,REFURBISHMENT,05-03-2026,14:45,False
