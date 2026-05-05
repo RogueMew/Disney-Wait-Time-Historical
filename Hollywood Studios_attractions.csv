@@ -18643,3 +18643,15 @@ Mickey & Minnie's Runaway Railway,25,OPERATING,05-04-2026,21:30,True
 Star Wars: Rise of the Resistance,70,OPERATING,05-04-2026,21:30,True
 Toy Story Mania!,35,OPERATING,05-04-2026,21:30,True
 Star Tours – The Adventures Continue,10,OPERATING,05-04-2026,21:30,True
+name,waitTime,currentStatus,date,time,isRide
+Millennium Falcon: Smugglers Run,40,OPERATING,05-04-2026,21:45,True
+Rock ’n’ Roller Coaster Starring The Muppets — Opening May 26,,REFURBISHMENT,05-04-2026,21:45,False
+The Twilight Zone™ Tower of Terror,35,OPERATING,05-04-2026,21:45,True
+Walt Disney Presents,,CLOSED,05-04-2026,21:45,True
+Alien Swirling Saucers,5,OPERATING,05-04-2026,21:45,True
+Slinky Dog Dash,45,OPERATING,05-04-2026,21:45,True
+Vacation Fun - An Original Animated Short with Mickey & Minnie,,CLOSED,05-04-2026,21:45,True
+Mickey & Minnie's Runaway Railway,20,OPERATING,05-04-2026,21:45,True
+Star Wars: Rise of the Resistance,60,OPERATING,05-04-2026,21:45,True
+Toy Story Mania!,25,OPERATING,05-04-2026,21:45,True
+Star Tours – The Adventures Continue,15,OPERATING,05-04-2026,21:45,True
