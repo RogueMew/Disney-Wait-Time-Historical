@@ -31003,3 +31003,15 @@ Star Wars: Rise of the Resistance,35,OPERATING,05-25-2026,17:00,True
 Toy Story Mania!,40,OPERATING,05-25-2026,17:00,True
 Star Tours – The Adventures Continue,5,OPERATING,05-25-2026,17:00,True
 Rock ’n’ Roller Coaster Starring The Muppets,,REFURBISHMENT,05-25-2026,17:00,False
+name,waitTime,currentStatus,date,time,isRide
+Millennium Falcon: Smugglers Run,15,OPERATING,05-25-2026,17:15,True
+The Twilight Zone™ Tower of Terror,25,OPERATING,05-25-2026,17:15,True
+Walt Disney Presents,,OPERATING,05-25-2026,17:15,True
+Alien Swirling Saucers,,DOWN,05-25-2026,17:15,True
+Slinky Dog Dash,40,OPERATING,05-25-2026,17:15,True
+Vacation Fun - An Original Animated Short with Mickey & Minnie,10,OPERATING,05-25-2026,17:15,True
+Mickey & Minnie's Runaway Railway,,DOWN,05-25-2026,17:15,True
+Star Wars: Rise of the Resistance,25,OPERATING,05-25-2026,17:15,True
+Toy Story Mania!,35,OPERATING,05-25-2026,17:15,True
+Star Tours – The Adventures Continue,5,OPERATING,05-25-2026,17:15,True
+Rock ’n’ Roller Coaster Starring The Muppets,,REFURBISHMENT,05-25-2026,17:15,False
