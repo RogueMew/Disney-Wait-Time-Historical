@@ -96119,3 +96119,37 @@ Mission: SPACE,15,OPERATING,05-31-2026,15:30,True
 Guardians of the Galaxy: Cosmic Rewind,85,OPERATING,05-31-2026,15:30,True
 Gran Fiesta Tour Starring The Three Caballeros,15,OPERATING,05-31-2026,15:30,True
 Soarin' Across America,85,OPERATING,05-31-2026,15:30,True
+name,waitTime,currentStatus,date,time,isRide
+Disney and Pixar Short Film Festival,,OPERATING,05-31-2026,15:45,True
+The Seas with Nemo & Friends,15,OPERATING,05-31-2026,15:45,True
+Frozen Ever After,65,OPERATING,05-31-2026,15:45,True
+Awesome Planet,,OPERATING,05-31-2026,15:45,True
+American Heritage Gallery,,OPERATING,05-31-2026,15:45,False
+Remy's Ratatouille Adventure,55,OPERATING,05-31-2026,15:45,True
+Advanced Training Lab,,OPERATING,05-31-2026,15:45,False
+Stave Church Gallery,,OPERATING,05-31-2026,15:45,False
+Turtle Talk With Crush,25,OPERATING,05-31-2026,15:45,True
+Bruce's Shark World,,OPERATING,05-31-2026,15:45,False
+Impressions de France,,CLOSED,05-31-2026,15:45,True
+Journey Into Imagination With Figment,30,OPERATING,05-31-2026,15:45,True
+Reflections of China,15,OPERATING,05-31-2026,15:45,True
+The American Adventure,,OPERATING,05-31-2026,15:45,False
+Mexico Folk Art Gallery,,OPERATING,05-31-2026,15:45,False
+Spaceship Earth,,DOWN,05-31-2026,15:45,True
+Test Track,105,OPERATING,05-31-2026,15:45,True
+Kidcot Fun Stops,,OPERATING,05-31-2026,15:45,False
+Living with the Land,25,OPERATING,05-31-2026,15:45,True
+SeaBase Aquarium,,OPERATING,05-31-2026,15:45,False
+"ImageWorks - The ""What If"" Labs",,OPERATING,05-31-2026,15:45,False
+Gallery of Arts and History,,OPERATING,05-31-2026,15:45,False
+House of the Whispering Willows,,OPERATING,05-31-2026,15:45,False
+Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,05-31-2026,15:45,False
+"Journey of Water, Inspired by Moana",,OPERATING,05-31-2026,15:45,True
+Beauty and the Beast Sing-Along,15,OPERATING,05-31-2026,15:45,True
+Palais du Cinéma,,OPERATING,05-31-2026,15:45,False
+Bijutsu-kan Gallery,,OPERATING,05-31-2026,15:45,False
+Canada Far and Wide in Circle-Vision 360,,OPERATING,05-31-2026,15:45,True
+Mission: SPACE,15,OPERATING,05-31-2026,15:45,True
+Guardians of the Galaxy: Cosmic Rewind,85,OPERATING,05-31-2026,15:45,True
+Gran Fiesta Tour Starring The Three Caballeros,15,OPERATING,05-31-2026,15:45,True
+Soarin' Across America,85,OPERATING,05-31-2026,15:45,True
