@@ -42530,3 +42530,19 @@ Avatar Flight of Passage,40,OPERATING,06-03-2026,18:45,True
 Kilimanjaro Safaris,10,OPERATING,06-03-2026,18:45,True
 Expedition Everest - Legend of the Forbidden Mountain,10,OPERATING,06-03-2026,18:45,True
 The Oasis Exhibits,,OPERATING,06-03-2026,18:45,False
+name,waitTime,currentStatus,date,time,isRide
+Affection Section,,OPERATING,06-04-2026,08:00,False
+Kali River Rapids,,CLOSED,06-04-2026,08:00,True
+Wildlife Express Train,,CLOSED,06-04-2026,08:00,False
+Zootopia: Better Zoogether!,10,OPERATING,06-04-2026,08:00,True
+Animal Care at Conservation Station,,OPERATING,06-04-2026,08:00,False
+Gorilla Falls Exploration Trail,,CLOSED,06-04-2026,08:00,False
+Wilderness Explorers,,OPERATING,06-04-2026,08:00,False
+Na'vi River Journey,10,OPERATING,06-04-2026,08:00,True
+Discovery Island Trails,,OPERATING,06-04-2026,08:00,False
+Tree of Life,,OPERATING,06-04-2026,08:00,False
+Maharajah Jungle Trek,,CLOSED,06-04-2026,08:00,False
+Avatar Flight of Passage,90,OPERATING,06-04-2026,08:00,True
+Kilimanjaro Safaris,,CLOSED,06-04-2026,08:00,True
+Expedition Everest - Legend of the Forbidden Mountain,5,OPERATING,06-04-2026,08:00,True
+The Oasis Exhibits,,OPERATING,06-04-2026,08:00,False
