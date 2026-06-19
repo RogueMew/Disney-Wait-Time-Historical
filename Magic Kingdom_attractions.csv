@@ -151979,3 +151979,39 @@ The Many Adventures of Winnie the Pooh,35,OPERATING,06-19-2026,12:30,True
 Pirates of the Caribbean,30,OPERATING,06-19-2026,12:30,True
 Jungle Cruise,35,OPERATING,06-19-2026,12:30,True
 Under the Sea - Journey of The Little Mermaid,10,OPERATING,06-19-2026,12:30,True
+name,waitTime,currentStatus,date,time,isRide
+The Barnstormer,10,OPERATING,06-19-2026,12:45,True
+Walt Disney World Railroad - Fantasyland,20,OPERATING,06-19-2026,12:45,True
+Seven Dwarfs Mine Train,55,OPERATING,06-19-2026,12:45,True
+A Pirate's Adventure ~ Treasures of the Seven Seas,,OPERATING,06-19-2026,12:45,True
+Enchanted Tales with Belle,10,OPERATING,06-19-2026,12:45,True
+Big Thunder Mountain Railroad,30,OPERATING,06-19-2026,12:45,True
+"""it's a small world""",20,OPERATING,06-19-2026,12:45,True
+Dumbo the Flying Elephant,20,OPERATING,06-19-2026,12:45,True
+Swiss Family Treehouse,5,OPERATING,06-19-2026,12:45,True
+Peter Pan's Flight,60,OPERATING,06-19-2026,12:45,True
+The Magic Carpets of Aladdin,10,OPERATING,06-19-2026,12:45,True
+Country Bear Musical Jamboree,10,OPERATING,06-19-2026,12:45,True
+Buzz Lightyear’s Space Ranger Spin,55,OPERATING,06-19-2026,12:45,True
+Walt Disney's Enchanted Tiki Room,10,OPERATING,06-19-2026,12:45,True
+Casey Jr. Splash 'N' Soak Station,,OPERATING,06-19-2026,12:45,False
+Tomorrowland Speedway,15,OPERATING,06-19-2026,12:45,True
+Prince Charming Regal Carrousel,5,OPERATING,06-19-2026,12:45,True
+Mad Tea Party,10,OPERATING,06-19-2026,12:45,True
+"Walt Disney World Railroad - Main Street, U.S.A.",20,OPERATING,06-19-2026,12:45,True
+Space Mountain,30,OPERATING,06-19-2026,12:45,True
+Walt Disney's Carousel of Progress,5,OPERATING,06-19-2026,12:45,True
+Mickey's PhilharMagic,10,OPERATING,06-19-2026,12:45,True
+Tomorrowland Transit Authority PeopleMover,10,OPERATING,06-19-2026,12:45,True
+"Monsters, Inc. Laugh Floor",10,OPERATING,06-19-2026,12:45,True
+The Hall of Presidents,15,OPERATING,06-19-2026,12:45,True
+Main Street Vehicles,,OPERATING,06-19-2026,12:45,True
+Astro Orbiter,15,OPERATING,06-19-2026,12:45,True
+TRON Lightcycle / Run,60,OPERATING,06-19-2026,12:45,True
+Tiana's Bayou Adventure,45,OPERATING,06-19-2026,12:45,True
+Cinderella Castle,,OPERATING,06-19-2026,12:45,False
+Haunted Mansion,35,OPERATING,06-19-2026,12:45,True
+The Many Adventures of Winnie the Pooh,30,OPERATING,06-19-2026,12:45,True
+Pirates of the Caribbean,30,OPERATING,06-19-2026,12:45,True
+Jungle Cruise,40,OPERATING,06-19-2026,12:45,True
+Under the Sea - Journey of The Little Mermaid,15,OPERATING,06-19-2026,12:45,True
