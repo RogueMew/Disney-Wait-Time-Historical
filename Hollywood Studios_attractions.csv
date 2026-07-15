@@ -61447,3 +61447,15 @@ Walt Disney Presents,,OPERATING,07-15-2026,16:45,True
 Vacation Fun - An Original Animated Short with Mickey & Minnie,10,OPERATING,07-15-2026,16:45,True
 Toy Story Mania!,45,OPERATING,07-15-2026,16:45,True
 Rock ’n’ Roller Coaster Starring The Muppets,55,OPERATING,07-15-2026,16:45,True
+name,waitTime,currentStatus,date,time,isRide
+Slinky Dog Dash,60,OPERATING,07-15-2026,17:00,True
+Alien Swirling Saucers,20,OPERATING,07-15-2026,17:00,True
+Mickey & Minnie's Runaway Railway,,DOWN,07-15-2026,17:00,True
+Star Wars: Rise of the Resistance,45,OPERATING,07-15-2026,17:00,True
+Star Tours – The Adventures Continue,5,OPERATING,07-15-2026,17:00,True
+Millennium Falcon: Smugglers Run,30,OPERATING,07-15-2026,17:00,True
+The Twilight Zone™ Tower of Terror,60,OPERATING,07-15-2026,17:00,True
+Walt Disney Presents,,OPERATING,07-15-2026,17:00,True
+Vacation Fun - An Original Animated Short with Mickey & Minnie,10,OPERATING,07-15-2026,17:00,True
+Toy Story Mania!,40,OPERATING,07-15-2026,17:00,True
+Rock ’n’ Roller Coaster Starring The Muppets,45,OPERATING,07-15-2026,17:00,True
