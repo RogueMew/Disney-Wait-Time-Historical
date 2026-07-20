@@ -176665,3 +176665,37 @@ Guardians of the Galaxy: Cosmic Rewind,90,OPERATING,07-20-2026,13:15,True
 Living with the Land,30,OPERATING,07-20-2026,13:15,True
 "ImageWorks - The ""What If"" Labs",,OPERATING,07-20-2026,13:15,False
 Soarin' Across America,60,OPERATING,07-20-2026,13:15,True
+name,waitTime,currentStatus,date,time,isRide
+The Seas with Nemo & Friends,25,OPERATING,07-20-2026,13:30,True
+Remy's Ratatouille Adventure,15,OPERATING,07-20-2026,13:30,True
+Awesome Planet,,OPERATING,07-20-2026,13:30,True
+Stave Church Gallery,,OPERATING,07-20-2026,13:30,False
+Bruce's Shark World,,OPERATING,07-20-2026,13:30,False
+Journey Into Imagination With Figment,,DOWN,07-20-2026,13:30,True
+The American Adventure,,CLOSED,07-20-2026,13:30,False
+Mexico Folk Art Gallery,,OPERATING,07-20-2026,13:30,False
+Test Track,,DOWN,07-20-2026,13:30,True
+Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,07-20-2026,13:30,False
+Disney and Pixar Short Film Festival,,OPERATING,07-20-2026,13:30,True
+Frozen Ever After,85,OPERATING,07-20-2026,13:30,True
+American Heritage Gallery,,OPERATING,07-20-2026,13:30,False
+Advanced Training Lab,,OPERATING,07-20-2026,13:30,False
+Impressions de France,,CLOSED,07-20-2026,13:30,True
+Turtle Talk With Crush,15,OPERATING,07-20-2026,13:30,True
+Reflections of China,,OPERATING,07-20-2026,13:30,True
+Spaceship Earth,25,OPERATING,07-20-2026,13:30,True
+Kidcot Fun Stops,,OPERATING,07-20-2026,13:30,False
+Gallery of Arts and History,,OPERATING,07-20-2026,13:30,False
+House of the Whispering Willows,,OPERATING,07-20-2026,13:30,False
+"Journey of Water, Inspired by Moana",,DOWN,07-20-2026,13:30,True
+Beauty and the Beast Sing-Along,15,OPERATING,07-20-2026,13:30,True
+Palais du Cinéma,,OPERATING,07-20-2026,13:30,False
+Bijutsu-kan Gallery,,OPERATING,07-20-2026,13:30,False
+Canada Far and Wide in Circle-Vision 360,15,OPERATING,07-20-2026,13:30,True
+Gran Fiesta Tour Starring The Three Caballeros,0,OPERATING,07-20-2026,13:30,True
+SeaBase Aquarium,,OPERATING,07-20-2026,13:30,False
+Mission: SPACE,,DOWN,07-20-2026,13:30,True
+Guardians of the Galaxy: Cosmic Rewind,105,OPERATING,07-20-2026,13:30,True
+Living with the Land,40,OPERATING,07-20-2026,13:30,True
+"ImageWorks - The ""What If"" Labs",,OPERATING,07-20-2026,13:30,False
+Soarin' Across America,75,OPERATING,07-20-2026,13:30,True
