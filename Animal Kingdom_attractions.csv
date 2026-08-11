@@ -86150,3 +86150,18 @@ Avatar Flight of Passage,55,OPERATING,08-11-2026,11:15,True
 Kilimanjaro Safaris,60,OPERATING,08-11-2026,11:15,True
 Expedition Everest - Legend of the Forbidden Mountain,25,OPERATING,08-11-2026,11:15,True
 The Oasis Exhibits,,OPERATING,08-11-2026,11:15,False
+name,waitTime,currentStatus,date,time,isRide
+Animal Care at Conservation Station,,OPERATING,08-11-2026,11:30,False
+Kali River Rapids,40,OPERATING,08-11-2026,11:30,True
+Wildlife Express Train,5,OPERATING,08-11-2026,11:30,True
+Zootopia: Better Zoogether!,10,OPERATING,08-11-2026,11:30,True
+Gorilla Falls Exploration Trail,5,OPERATING,08-11-2026,11:30,True
+Wilderness Explorers,,OPERATING,08-11-2026,11:30,False
+Na'vi River Journey,55,OPERATING,08-11-2026,11:30,True
+Discovery Island Trails,,OPERATING,08-11-2026,11:30,False
+Tree of Life,,OPERATING,08-11-2026,11:30,False
+Maharajah Jungle Trek,5,OPERATING,08-11-2026,11:30,True
+Avatar Flight of Passage,55,OPERATING,08-11-2026,11:30,True
+Kilimanjaro Safaris,45,OPERATING,08-11-2026,11:30,True
+Expedition Everest - Legend of the Forbidden Mountain,30,OPERATING,08-11-2026,11:30,True
+The Oasis Exhibits,,OPERATING,08-11-2026,11:30,False
