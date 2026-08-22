@@ -84019,3 +84019,15 @@ Walt Disney Presents,,OPERATING,08-22-2026,15:15,True
 Vacation Fun - An Original Animated Short with Mickey & Minnie,,CLOSED,08-22-2026,15:15,True
 Toy Story Mania!,40,OPERATING,08-22-2026,15:15,True
 Rock ’n’ Roller Coaster Starring The Muppets,50,OPERATING,08-22-2026,15:15,True
+name,waitTime,currentStatus,date,time,isRide
+Slinky Dog Dash,55,OPERATING,08-22-2026,15:30,True
+Alien Swirling Saucers,25,OPERATING,08-22-2026,15:30,True
+Mickey & Minnie's Runaway Railway,,DOWN,08-22-2026,15:30,True
+Star Wars: Rise of the Resistance,45,OPERATING,08-22-2026,15:30,True
+Star Tours – The Adventures Continue,5,OPERATING,08-22-2026,15:30,True
+Millennium Falcon: Smugglers Run,30,OPERATING,08-22-2026,15:30,True
+The Twilight Zone™ Tower of Terror,30,OPERATING,08-22-2026,15:30,True
+Walt Disney Presents,,OPERATING,08-22-2026,15:30,True
+Vacation Fun - An Original Animated Short with Mickey & Minnie,,CLOSED,08-22-2026,15:30,True
+Toy Story Mania!,30,OPERATING,08-22-2026,15:30,True
+Rock ’n’ Roller Coaster Starring The Muppets,50,OPERATING,08-22-2026,15:30,True
