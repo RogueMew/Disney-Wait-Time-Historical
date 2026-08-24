@@ -2,6 +2,9 @@ import WDWR
 import time
 
 def main():
+    if WDWR.UtilFuncs.WifiCheck():
+        ConnectionError("Not Connected to the Wifi")
+
     start = time.perf_counter()
     
     hollywood = WDWR.Park("Hollywood Studios", WDWR.ParkSlugs.hollywood)
