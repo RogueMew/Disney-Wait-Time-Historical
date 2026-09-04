@@ -91411,3 +91411,15 @@ Walt Disney Presents,,OPERATING,09-04-2026,10:00,True
 Vacation Fun - An Original Animated Short with Mickey & Minnie,,CLOSED,09-04-2026,10:00,True
 Toy Story Mania!,30,OPERATING,09-04-2026,10:00,True
 Rock ’n’ Roller Coaster Starring The Muppets,35,OPERATING,09-04-2026,10:00,True
+name,waitTime,currentStatus,date,time,isRide
+Slinky Dog Dash,,DOWN,09-04-2026,10:15,True
+Alien Swirling Saucers,25,OPERATING,09-04-2026,10:15,True
+Mickey & Minnie's Runaway Railway,40,OPERATING,09-04-2026,10:15,True
+Star Wars: Rise of the Resistance,45,OPERATING,09-04-2026,10:15,True
+Star Tours – The Adventures Continue,5,OPERATING,09-04-2026,10:15,True
+Millennium Falcon: Smugglers Run,35,OPERATING,09-04-2026,10:15,True
+The Twilight Zone™ Tower of Terror,25,OPERATING,09-04-2026,10:15,True
+Walt Disney Presents,,OPERATING,09-04-2026,10:15,True
+Vacation Fun - An Original Animated Short with Mickey & Minnie,,CLOSED,09-04-2026,10:15,True
+Toy Story Mania!,30,OPERATING,09-04-2026,10:15,True
+Rock ’n’ Roller Coaster Starring The Muppets,55,OPERATING,09-04-2026,10:15,True
