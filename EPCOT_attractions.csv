@@ -251091,3 +251091,37 @@ Guardians of the Galaxy: Cosmic Rewind,70,OPERATING,09-04-2026,15:45,True
 Living with the Land,20,OPERATING,09-04-2026,15:45,True
 "ImageWorks - The ""What If"" Labs",,OPERATING,09-04-2026,15:45,False
 Soarin' Across America,20,OPERATING,09-04-2026,15:45,True
+name,waitTime,currentStatus,date,time,isRide
+The Seas with Nemo & Friends,5,OPERATING,09-04-2026,16:00,True
+Remy's Ratatouille Adventure,40,OPERATING,09-04-2026,16:00,True
+Awesome Planet,,OPERATING,09-04-2026,16:00,True
+Stave Church Gallery,,OPERATING,09-04-2026,16:00,False
+Bruce's Shark World,,OPERATING,09-04-2026,16:00,False
+Journey Into Imagination With Figment,5,OPERATING,09-04-2026,16:00,True
+The American Adventure,,OPERATING,09-04-2026,16:00,False
+Mexico Folk Art Gallery,,OPERATING,09-04-2026,16:00,False
+Test Track,,DOWN,09-04-2026,16:00,True
+Project Tomorrow: Inventing the Wonders of the Future,,OPERATING,09-04-2026,16:00,False
+Disney and Pixar Short Film Festival,,OPERATING,09-04-2026,16:00,True
+Frozen Ever After,50,OPERATING,09-04-2026,16:00,True
+American Heritage Gallery,,OPERATING,09-04-2026,16:00,False
+Advanced Training Lab,,OPERATING,09-04-2026,16:00,False
+Impressions de France,,CLOSED,09-04-2026,16:00,True
+Turtle Talk With Crush,15,OPERATING,09-04-2026,16:00,True
+Reflections of China,15,OPERATING,09-04-2026,16:00,True
+Spaceship Earth,15,OPERATING,09-04-2026,16:00,True
+Kidcot Fun Stops,,OPERATING,09-04-2026,16:00,False
+Gallery of Arts and History,,OPERATING,09-04-2026,16:00,False
+House of the Whispering Willows,,OPERATING,09-04-2026,16:00,False
+"Journey of Water, Inspired by Moana",,OPERATING,09-04-2026,16:00,True
+Beauty and the Beast Sing-Along,15,OPERATING,09-04-2026,16:00,True
+Palais du Cinéma,,OPERATING,09-04-2026,16:00,False
+Bijutsu-kan Gallery,,OPERATING,09-04-2026,16:00,False
+Canada Far and Wide in Circle-Vision 360,15,OPERATING,09-04-2026,16:00,True
+Gran Fiesta Tour Starring The Three Caballeros,10,OPERATING,09-04-2026,16:00,True
+SeaBase Aquarium,,OPERATING,09-04-2026,16:00,False
+Mission: SPACE,15,OPERATING,09-04-2026,16:00,True
+Guardians of the Galaxy: Cosmic Rewind,70,OPERATING,09-04-2026,16:00,True
+Living with the Land,20,OPERATING,09-04-2026,16:00,True
+"ImageWorks - The ""What If"" Labs",,OPERATING,09-04-2026,16:00,False
+Soarin' Across America,20,OPERATING,09-04-2026,16:00,True
