@@ -301235,3 +301235,39 @@ The Many Adventures of Winnie the Pooh,15,OPERATING,09-05-2026,22:45,True
 Pirates of the Caribbean,5,OPERATING,09-05-2026,22:45,True
 Jungle Cruise,15,OPERATING,09-05-2026,22:45,True
 Under the Sea - Journey of The Little Mermaid,5,OPERATING,09-05-2026,22:45,True
+name,waitTime,currentStatus,date,time,isRide
+The Barnstormer,5,OPERATING,09-06-2026,09:01,True
+Walt Disney World Railroad - Fantasyland,,CLOSED,09-06-2026,09:01,True
+Seven Dwarfs Mine Train,60,OPERATING,09-06-2026,09:01,True
+A Pirate's Adventure ~ Treasures of the Seven Seas,,CLOSED,09-06-2026,09:01,True
+Enchanted Tales with Belle,,CLOSED,09-06-2026,09:01,True
+Big Thunder Mountain Railroad,,CLOSED,09-06-2026,09:01,True
+"""it's a small world""",5,OPERATING,09-06-2026,09:01,True
+Dumbo the Flying Elephant,20,OPERATING,09-06-2026,09:01,True
+Swiss Family Treehouse,,CLOSED,09-06-2026,09:01,True
+Peter Pan's Flight,45,OPERATING,09-06-2026,09:01,True
+The Magic Carpets of Aladdin,,CLOSED,09-06-2026,09:01,True
+Country Bear Musical Jamboree,,CLOSED,09-06-2026,09:01,True
+Buzz Lightyear’s Space Ranger Spin,15,OPERATING,09-06-2026,09:01,True
+Walt Disney's Enchanted Tiki Room,,CLOSED,09-06-2026,09:01,True
+Casey Jr. Splash 'N' Soak Station,,CLOSED,09-06-2026,09:01,False
+Tomorrowland Speedway,15,OPERATING,09-06-2026,09:01,True
+Prince Charming Regal Carrousel,5,OPERATING,09-06-2026,09:01,True
+Mad Tea Party,5,OPERATING,09-06-2026,09:01,True
+"Walt Disney World Railroad - Main Street, U.S.A.",,CLOSED,09-06-2026,09:01,True
+Space Mountain,,DOWN,09-06-2026,09:01,True
+Walt Disney's Carousel of Progress,,REFURBISHMENT,09-06-2026,09:01,False
+Mickey's PhilharMagic,,CLOSED,09-06-2026,09:01,True
+Tomorrowland Transit Authority PeopleMover,5,OPERATING,09-06-2026,09:01,True
+"Monsters, Inc. Laugh Floor",,CLOSED,09-06-2026,09:01,True
+The Hall of Presidents,,CLOSED,09-06-2026,09:01,True
+Main Street Vehicles,,CLOSED,09-06-2026,09:01,True
+Astro Orbiter,5,OPERATING,09-06-2026,09:01,True
+TRON Lightcycle / Run,,CLOSED,09-06-2026,09:01,True
+Tiana's Bayou Adventure,,CLOSED,09-06-2026,09:01,True
+Cinderella Castle,,CLOSED,09-06-2026,09:01,False
+Haunted Mansion,,CLOSED,09-06-2026,09:01,True
+The Many Adventures of Winnie the Pooh,25,OPERATING,09-06-2026,09:01,True
+Pirates of the Caribbean,,CLOSED,09-06-2026,09:01,True
+Jungle Cruise,,CLOSED,09-06-2026,09:01,True
+Under the Sea - Journey of The Little Mermaid,5,OPERATING,09-06-2026,09:01,True
