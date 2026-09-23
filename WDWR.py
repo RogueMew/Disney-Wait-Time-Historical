@@ -70,13 +70,14 @@ class UtilFuncs:
             filePath (str): the filepath to the CSV file
 
         Returns:
-            bool: True if it has data(AKA headers) and False if not or does not exist
+            bool: True if it has data (AKA headers) and False if not or does not exist
         """
         if not os.path.exists(filePath):
             return False
         
         with open(filePath, "r") as f:
-            return bool(f.readline().strip())
+            if f.readline().strip() is not None:
+                return True;
 
     @staticmethod
     def correctHeaders(filePath):
@@ -322,7 +323,7 @@ class ActivityList(list[T], Generic[T]):
         with open(filePath, mode="a", newline="") as csvFile:
             writer = csv.DictWriter(csvFile, typeDict[self.activityType].properties)
 
-            if UtilFuncs.hasHeaders(f"{parkName}_{typeDictStr[self.activityType]}.csv"):
+            if not UtilFuncs.hasHeaders(f"{parkName}_{typeDictStr[self.activityType]}.csv"):
                 writer.writeheader()
             
             activities = self.toDict()
@@ -497,7 +498,6 @@ class dataCleanup:
             raise ValueError("This File has no Data in it")
         
         self.dataFrame = pandas.read_csv(self.filePath)
-
 
     def _findSimilars(self, listofData: list) :
         replaceDict = {}
