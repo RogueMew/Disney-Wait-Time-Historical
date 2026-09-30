@@ -353,9 +353,11 @@ class Park:
     shows: ActivityList[Show]
     restaurants: ActivityList[Restaurant]
     waitBetweenTimeChecks: int
-    openTime : datetime.datetime
-    closeTime : datetime.datetime
+    openDateTime : datetime.datetime
+    closeDateTime : datetime.datetime
     timeZone : str
+    openTime : str
+    closeTime : str
 
     def _categorizeActivites(self, entityType: ActivityTypes, parkData):
         return [activity for activity in parkData if activity["entityType"] == entityType]
@@ -433,8 +435,10 @@ class Park:
         response = web.get(URL.schedule.format(self.slug)).json()
         today = [day for day in response["schedule"] if day["date"] == datetime.datetime.now(pytz.timezone(self.timeZone)).strftime("%Y-%m-%d") and "description" not in day]
         today = today[0]
-        self.openTime = datetime.datetime.fromisoformat(today["openingTime"])
-        self.closeTime = datetime.datetime.fromisoformat(today["closingTime"])
+        self.openDateTime = datetime.datetime.fromisoformat(today["openingTime"])
+        self.closeDateTime = datetime.datetime.fromisoformat(today["closingTime"])
+        self.closeTime = self.closeDateTime.strftime("%H:%M")
+        self.openTime = self.openDateTime.strftime("%H:%M")
 
     def _additionalInfoAdd(self):
         response = web.get(URL.liveData.format(self.slug)).json()
@@ -450,7 +454,7 @@ class Park:
         self.attractions = ActivityList([], Attraction)
         self.shows = ActivityList([], Show)
         self.restaurants = ActivityList([], Restaurant)
-
+        
         self.waitBetweenTimeChecks = 300
 
         if not UtilFuncs.WifiCheck():
@@ -464,7 +468,7 @@ class Park:
     def isParkOpen(self):
         currentTime = datetime.datetime.now(pytz.timezone(self.timeZone))
         
-        if self.openTime <= currentTime <= self.closeTime:
+        if self.openDateTime <= currentTime <= self.closeDateTime:
             return True
         else:
             return False
