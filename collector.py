@@ -8,7 +8,7 @@ def main():
     start = time.perf_counter()
     
     hollywood = WDWR.Park("Hollywood Studios", WDWR.ParkSlugs.hollywood)
-    print(f"Park times are {hollywood.openTime} - {hollywood.closeTime}")
+    print(f"{hollywood.name} park times are {hollywood.openTime} - {hollywood.closeTime}")
     if hollywood.isParkOpen():
         print(f"Saving {hollywood.name} as a csv")
         hollywood.attractions.archiveToCSV(hollywood.name,hollywood.lastTimeCheck)
@@ -17,7 +17,7 @@ def main():
     print("\n")
     
     dak = WDWR.Park("Animal Kingdom", WDWR.ParkSlugs.dak)
-    print(f"Park times are {dak.openTime} - {dak.closeTime}")
+    print(f"{dak.name} park times are {dak.openTime} - {dak.closeTime}")
     if dak.isParkOpen():
         print(f"Saving {dak.name} as a csv")
         dak.attractions.archiveToCSV(dak.name,dak.lastTimeCheck)
@@ -26,7 +26,7 @@ def main():
     print("\n")
 
     magic = WDWR.Park("Magic Kingdom", WDWR.ParkSlugs.magic)
-    print(f"Park times are {magic.openTime} - {magic.closeTime}")
+    print(f"{magic.name} park times are {magic.openTime} - {magic.closeTime}")
     if magic.isParkOpen():
         print(f"Saving {magic.name} as a csv")
         magic.attractions.archiveToCSV(magic.name,magic.lastTimeCheck)
@@ -35,7 +35,7 @@ def main():
     print("\n")
 
     epcot = WDWR.Park("EPCOT", WDWR.ParkSlugs.epcot)
-    print(f"Park times are {epcot.openTime} - {epcot.closeTime}")
+    print(f"{epcot.name} park times are {epcot.openTime} - {epcot.closeTime}")
     if epcot.isParkOpen():
         print(f"Saving {epcot.name} as a csv")
         epcot.attractions.archiveToCSV(epcot.name,epcot.lastTimeCheck)
