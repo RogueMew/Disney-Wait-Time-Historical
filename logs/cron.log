@@ -40154,3 +40154,43 @@ Saving EPCOT as a csv
 
 
 Time taken is 13.154604706040118 seconds
+Wed Oct  7 09:35:00 AM MDT 2026
+/home/roguemew/git/Disney-Wait-Time-Historical/venv/lib/python3.14/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+Hollywood Studios park times are 09:00 - 21:00
+Saving Hollywood Studios as a csv
+
+
+Animal Kingdom park times are 08:00 - 18:00
+Saving Animal Kingdom as a csv
+
+
+Magic Kingdom park times are 08:00 - 23:00
+Saving Magic Kingdom as a csv
+
+
+EPCOT park times are 09:00 - 21:00
+Saving EPCOT as a csv
+
+
+Time taken is 5.5563702750368975 seconds
+Wed Oct  7 09:40:00 AM MDT 2026
+/home/roguemew/git/Disney-Wait-Time-Historical/venv/lib/python3.14/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+Hollywood Studios park times are 09:00 - 21:00
+Saving Hollywood Studios as a csv
+
+
+Animal Kingdom park times are 08:00 - 18:00
+Saving Animal Kingdom as a csv
+
+
+Magic Kingdom park times are 08:00 - 23:00
+Saving Magic Kingdom as a csv
+
+
+EPCOT park times are 09:00 - 21:00
+Saving EPCOT as a csv
+
+
+Time taken is 4.652493823028635 seconds
